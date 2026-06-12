@@ -47,50 +47,139 @@ body {
 
 /* ── Header ───────────────────────────────────────────────────────────────── */
 .site-header {
-  background: var(--header-bg);
-  border-bottom: 3px solid #ffffff10;
+  background: linear-gradient(135deg, #0a0f1e 0%, #0f1625 40%, #0a1628 100%);
+  border-bottom: 1px solid rgba(56, 189, 248, 0.15);
+  position: relative;
+  overflow: hidden;
+}
+
+/* Decorative background shapes */
+.header-bg-shapes { position: absolute; inset: 0; pointer-events: none; }
+.header-shape {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(60px);
+}
+.header-shape--1 {
+  width: 400px; height: 400px;
+  top: -180px; left: -80px;
+  background: radial-gradient(circle, #1d4ed8 0%, transparent 70%);
+  opacity: 0.18;
+}
+.header-shape--2 {
+  width: 500px; height: 300px;
+  top: -100px; right: -100px;
+  background: radial-gradient(circle, #0ea5e9 0%, transparent 70%);
+  opacity: 0.14;
+}
+.header-shape--3 {
+  width: 300px; height: 300px;
+  bottom: -100px; left: 50%;
+  transform: translateX(-50%);
+  background: radial-gradient(circle, #7c3aed 0%, transparent 70%);
+  opacity: 0.1;
 }
 
 .header-inner {
   max-width: var(--max-w);
   margin: 0 auto;
-  padding: 52px 24px 44px;
+  padding: 52px 24px 48px;
   text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+/* Year badge */
+.header-year-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: rgba(56, 189, 248, 0.1);
+  border: 1px solid rgba(56, 189, 248, 0.25);
+  border-radius: 999px;
+  padding: 5px 14px 5px 10px;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #38bdf8;
+  margin-bottom: 22px;
+}
+.header-year-dot {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: #4ade80;
+  box-shadow: 0 0 6px #4ade80;
+  flex-shrink: 0;
 }
 
 /* Logo */
 .logo {
   display: inline-flex;
   align-items: baseline;
-  font-size: clamp(2.4rem, 5.5vw, 3.6rem);
+  font-size: clamp(2.6rem, 6vw, 4rem);
   font-weight: 800;
   letter-spacing: -.04em;
   line-height: 1;
-  margin-bottom: 14px;
+  margin-bottom: 18px;
 }
 .logo-hablemos { color: var(--header-text); }
 .logo-de {
-  color: var(--header-text);
+  color: #38bdf8;
   font-style: italic;
-  opacity: .45;
-  margin-left: 2px;
+  margin-left: 3px;
+  opacity: 0.9;
 }
 
 .header-tagline {
-  font-size: .72rem;
-  font-weight: 700;
-  letter-spacing: .14em;
-  text-transform: uppercase;
-  color: var(--header-muted);
-  margin-bottom: 12px;
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: .06em;
+  color: rgba(156, 163, 175, 0.8);
+  margin-bottom: 14px;
 }
 
 .header-desc {
-  font-size: clamp(.9rem, 1.6vw, 1.02rem);
-  color: var(--header-muted);
-  max-width: 500px;
-  margin: 0 auto 24px;
-  line-height: 1.7;
+  font-size: clamp(.9rem, 1.6vw, 1.05rem);
+  color: rgba(156, 163, 175, 0.75);
+  max-width: 480px;
+  margin: 0 auto 28px;
+  line-height: 1.72;
+}
+
+/* Stats row */
+.header-stats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  margin-bottom: 28px;
+}
+.header-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 24px;
+}
+.header-stat-num {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--header-text);
+  line-height: 1;
+  letter-spacing: -.02em;
+}
+.header-stat-label {
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: rgba(156, 163, 175, 0.6);
+  margin-top: 3px;
+}
+.header-stat-divider {
+  width: 1px;
+  height: 36px;
+  background: rgba(255,255,255,.1);
 }
 
 /* Search */
@@ -315,9 +404,14 @@ body {
 
 /* ── Responsive ───────────────────────────────────────────────────────────── */
 @media (max-width: 640px) {
-  .cards-grid   { grid-template-columns: 1fr; gap: 14px; }
-  .main-content { padding: 32px 16px 56px; }
-  .header-inner { padding: 36px 16px 30px; }
+  .cards-grid        { grid-template-columns: 1fr; gap: 14px; }
+  .main-content      { padding: 32px 16px 56px; }
+  .header-inner      { padding: 36px 16px 32px; }
+  .header-stats      { gap: 0; }
+  .header-stat       { padding: 0 14px; }
+  .header-stat-num   { font-size: 1.2rem; }
+  .header-shape--1   { width: 250px; height: 250px; }
+  .header-shape--2   { width: 300px; height: 200px; }
 }
 @media (min-width: 641px) and (max-width: 900px) {
   .cards-grid { grid-template-columns: repeat(2, 1fr); }

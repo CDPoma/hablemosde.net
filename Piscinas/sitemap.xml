@@ -1,16 +1,52 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Portada de Piscinas -->
   <url>
     <loc>https://hablemosdepiscinas.com/</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Artículos principales -->
+  <url>
+    <loc>https://hablemosdepiscinas.com/entrada.html?type=post&amp;slug=como-mantener-agua-cristalina-piscina</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdepiscinas.com/entrada.html?type=post&amp;slug=mejor-limpiafondos-automatico-piscina</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdepiscinas.com/entrada.html?type=post&amp;slug=control-ph-piscina-guia-completa</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdepiscinas.com/entrada.html?type=post&amp;slug=eliminar-algas-verdes-piscina-48-horas</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdepiscinas.com/entrada.html?type=post&amp;slug=apertura-piscina-temporada-guia</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Páginas estáticas -->
   <url>
     <loc>https://hablemosdepiscinas.com/preguntas-frecuentes.html</loc>
     <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosdepiscinas.com/aviso-legal.html</loc>
@@ -27,4 +63,5 @@
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
+
 </urlset>
