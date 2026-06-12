@@ -1,0 +1,265 @@
+﻿{
+  "updatedAt": "2026-06-03T12:00:00+02:00",
+  "categoryOrder": [
+    "Mantenimiento",
+    "Problemas",
+    "Filtracion",
+    "Seguridad",
+    "Temporada"
+  ],
+  "posts": [
+    {
+      "slug": "como-ajustar-el-ph-sin-danar-el-agua",
+      "title": "Como ajustar el pH sin danar el agua",
+      "excerpt": "El pH bien ajustado mejora la eficacia del cloro y evita irritaciones. La clave es corregir poco a poco y volver a medir.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Antes de tocar nada, mide pH, cloro libre y alcalinidad. Si el pH esta alto, añade reductor en dosis pequeñas con la bomba en marcha y espera unas horas antes de repetir la lectura. Si el pH esta bajo, corrige en sentido contrario con el producto adecuado y sin saltos bruscos. Una piscina estable no se consigue con una gran correccion puntual, sino con ajustes pequeños y medidos. Si la alcalinidad esta fuera de rango, corrige primero esa parte porque influye mucho en la estabilidad del pH. Revisa los valores una vez por semana en temporada alta para evitar oscilaciones que luego obligan a gastar mas producto y mas tiempo de mantenimiento."
+    },
+    {
+      "slug": "rutina-semanal-de-20-minutos-para-piscina-domestica",
+      "title": "Rutina semanal de 20 minutos para piscina domestica",
+      "excerpt": "Una rutina corta, repetible y realista ayuda mas que una limpieza larga y esporadica. Menos caos, mas constancia.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Divide el mantenimiento en pasos fijos. Primero vacia cestas y skimmers. Despues cepilla paredes, esquinas y linea de flotacion. Luego mide pH y cloro para corregir si hace falta. Por ultimo comprueba el estado del filtro y la presion. Si repites esta secuencia cada semana, la piscina se mantiene mucho mas estable y resulta mas facil detectar cualquier cambio raro antes de que se convierta en un problema. Esta rutina encaja muy bien en piscinas familiares porque no exige mucho tiempo y evita trabajar a contrarreloj cuando el agua ya se ha descompensado."
+    },
+    {
+      "slug": "agua-turbia-despues-de-mucho-uso-que-revisar-primero",
+      "title": "Agua turbia despues de mucho uso: que revisar primero",
+      "excerpt": "Cuando sube la carga de baño, lo primero no es echar mas producto. Hay que ordenar la correccion y revisar filtracion.",
+      "category": "Problemas",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Si el agua se vuelve turbia despues de un dia intenso, empieza por medir pH y cloro libre. Si el pH esta fuera de rango, el desinfectante pierde eficacia y la turbidez tarda mas en desaparecer. Despues comprueba el tiempo de filtracion y el estado del prefiltro. En muchos casos el problema no es solo quimico, sino una combinacion de uso alto, poca depuracion y suciedad acumulada. Cepilla el vaso, limpia cestas y deja la bomba trabajando el tiempo suficiente para recuperar claridad. Si la turbidez sigue, revisa el filtro y limpia el medio filtrante segun toque."
+    },
+    {
+      "slug": "por-que-salen-algas-en-las-esquinas-y-como-pararlas",
+      "title": "Por que salen algas en las esquinas y como pararlas",
+      "excerpt": "Las esquinas y zonas con poco movimiento son el lugar ideal para que las algas se fijen si la circulacion es baja.",
+      "category": "Problemas",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Las algas suelen aparecer antes en rincones con menos circulacion de agua. Si ves puntos verdes o resbaladizos, cepilla esa zona de inmediato y revisa el nivel de cloro libre. Tambien conviene comprobar que los retornos estan orientados para mover bien toda la lamina de agua. Cuando la piscina tiene rincones muertos, la suciedad se acumula y el tratamiento llega peor. Mantener las esquinas limpias, cepillar una vez por semana y revisar la filtracion evita que el problema avance. Si la piscina esta muy expuesta al sol o recibe mucho polvo, la vigilancia debe ser todavia mas constante."
+    },
+    {
+      "slug": "cuantas-horas-debe-filtrar-una-piscina-en-verano",
+      "title": "Cuantas horas debe filtrar una piscina en verano",
+      "excerpt": "No hay una cifra magica: depende de temperatura, uso y volumen de agua. Lo importante es adaptar la filtracion al dia a dia.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "En verano la filtracion suele necesitar mas horas que en primavera, sobre todo si hay calor y muchos banos. Reparte el tiempo en varios tramos para mejorar la circulacion y evitar que el agua se quede estancada. Si la piscina recibe mucho uso, sube horas de filtracion y comprueba si el agua recupera transparencia al dia siguiente. No conviene fijar un horario rigido para todo el verano, porque las necesidades cambian con la temperatura, la suciedad exterior y la carga de baño. Ajustar poco a poco es la forma mas comoda de mantener el agua estable y no gastar de mas."
+    },
+    {
+      "slug": "lavado-del-filtro-de-arena-cuando-hacerlo-y-como-no-perder-rendimiento",
+      "title": "Lavado del filtro de arena: cuando hacerlo y como no perder rendimiento",
+      "excerpt": "El filtro no se lava por costumbre, se lava por sintomas. La presion y el caudal mandan mas que el calendario.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Haz el lavado del filtro cuando notes subida clara de presion o perdida de caudal. Un lavado demasiado pronto desperdicia agua y no aporta mejora real. Si el lavado ya no limpia igual que antes, revisa el estado de la arena o del medio filtrante. En piscinas domesticas suele ser mejor observar el comportamiento del equipo que seguir una rutina fija sin mirar sintomas. Mantener el filtro en buen estado ayuda a que el agua se mantenga limpia con menos esfuerzo y reduce la sensacion de que siempre hay que corregirlo todo con quimica."
+    },
+    {
+      "slug": "filtro-de-cartucho-o-arena-cual-conviene-en-casa",
+      "title": "Filtro de cartucho o arena: cual conviene en casa",
+      "excerpt": "No existe una opcion perfecta para todos. La mejor eleccion depende del tiempo disponible, el consumo y la facilidad de limpieza.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "El filtro de cartucho suele ofrecer una filtracion fina y es una buena opcion si quieres controlar mejor la limpieza manual. El filtro de arena es robusto, conocido y muy habitual en piscinas familiares. Si valoras el ahorro de tiempo, la arena suele resultar mas comoda. Si prefieres un acabado de filtracion mas fino y aceptas limpiar mas a menudo, el cartucho puede encajar mejor. La decision correcta es la que se adapte a tu uso real y al tiempo que puedas dedicar cada semana, no la que suene mejor sobre el papel."
+    },
+    {
+      "slug": "seguridad-basica-en-piscina-para-ninos-y-mascotas",
+      "title": "Seguridad basica en piscina para ninos y mascotas",
+      "excerpt": "La seguridad funciona mejor cuando se repiten pocas reglas claras. Barrera, supervision y orden reducen muchos sustos.",
+      "category": "Seguridad",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Define siempre una norma de supervision cuando haya ninos o mascotas cerca del agua. Mantener la zona despejada, usar barreras fisicas y no dejar juguetes flotando al terminar ayuda mas de lo que parece. Una cubierta bien elegida tambien aporta una capa extra de seguridad y reduce suciedad. No hace falta complicarlo: pocas reglas claras, repetidas cada dia, suelen funcionar mejor que un monton de avisos que nadie recuerda. La seguridad de una piscina depende mucho de los habitos de la casa, no solo de la instalacion."
+    },
+    {
+      "slug": "invernaje-de-la-piscina-checklist-de-cierre-sin-sorpresas",
+      "title": "Invernaje de la piscina: checklist de cierre sin sorpresas",
+      "excerpt": "Cerrar bien la temporada evita reparaciones y hace mas facil la reapertura en primavera.",
+      "category": "Temporada",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Antes de cerrar la temporada, limpia a fondo el vaso, revisa equipos, ajusta parametros y protege los puntos mas sensibles. Coloca la cubierta de forma correcta y comprueba que no queda suciedad acumulada en cestas o prefiltros. Un invernaje ordenado no solo protege la piscina, tambien reduce el trabajo de puesta en marcha cuando llegue el buen tiempo. Si dejas todo preparado con calma, la siguiente temporada empieza con menos problemas y menos gasto de tiempo."
+    },
+    {
+      "slug": "tormentas-de-verano-que-hacer-para-recuperar-el-agua",
+      "title": "Tormentas de verano: que hacer para recuperar el agua",
+      "excerpt": "Lluvia, polvo y viento alteran el equilibrio. Conviene actuar en orden para no gastar producto de mas.",
+      "category": "Temporada",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Tras una tormenta, retira residuos visibles, revisa pH y comprueba el nivel de desinfectante. Despues limpia el filtro si ha subido la presion y deja que la depuracion haga su trabajo. No conviene sobredosificar por impulso, porque el problema muchas veces se resuelve mejor con orden y paciencia. Si la piscina recibe polvo, hojas o lluvia con frecuencia, este protocolo rapido evita que el agua pase de clara a turbia en muy poco tiempo."
+    },
+    {
+      "slug": "como-limpiar-la-linea-de-flotacion-sin-danar-el-revestimiento",
+      "title": "Como limpiar la linea de flotacion sin danar el revestimiento",
+      "excerpt": "La linea de flotacion necesita un metodo suave y constante. Frotar demasiado fuerte puede empeorar el acabado.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "La zona de la linea de flotacion acumula grasa, polvo y restos de productos solares. Lo mejor es usar un limpiador adecuado al tipo de revestimiento y pasar una esponja o cepillo suave. Si mantienes el pH controlado y la filtracion en orden, la suciedad tarda mucho mas en fijarse. Esta tarea es sencilla, pero muy importante para que la piscina se vea limpia de verdad y no solo aceptable desde lejos."
+    },
+    {
+      "slug": "como-reducir-el-consumo-de-agua-sin-perder-calidad",
+      "title": "Como reducir el consumo de agua sin perder calidad",
+      "excerpt": "Ahorra agua sin caer en atajos que empeoren el mantenimiento. La clave es controlar fugas, cubiertas y limpieza.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Reducir el consumo de agua empieza por vigilar fugas y por cubrir la piscina cuando no se use. Tambien ayuda limpiar cestas y filtros a tiempo, porque un sistema que trabaja forzado suele exigir mas correcciones. Si evitas rellenados innecesarios, mantienes mejor el equilibrio del agua y no pierdes calidad. La idea es usar solo el agua que de verdad hace falta y evitar desperdicios por falta de revision o por pequeños descuidos que se repiten cada semana."
+    },
+    {
+      "slug": "como-organizar-la-limpieza-de-piscina-por-dias",
+      "title": "Como organizar la limpieza de piscina por dias",
+      "excerpt": "Repartir tareas en la semana hace mas facil mantener todo al dia sin dedicar una tarde entera al mantenimiento.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Una buena organizacion evita que la piscina se acumule de trabajo. Puedes dejar un dia para medir y ajustar el agua, otro para limpieza superficial y otro para revisar filtracion y cestas. Este sistema funciona bien en piscinas familiares porque convierte el mantenimiento en una rutina corta y repetible. Si divides las tareas, reduces la sensacion de carga y tambien mejoras la constancia, que es lo que mas influye en el resultado final."
+    },
+    {
+      "slug": "como-detectar-aire-en-el-circuito-de-filtrado",
+      "title": "Como detectar aire en el circuito de filtrado",
+      "excerpt": "El aire en el circuito no siempre se ve a simple vista, pero si baja el rendimiento deja pistas muy claras.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Si la bomba pierde cebado, aparecen burbujas en los retornos o el caudal baja sin motivo claro, puede haber aire en el circuito. Revisa tapas, juntas y conexiones para localizar el punto de entrada. Este tipo de fallo resta eficiencia a la depuracion y puede hacer pensar que el problema es quimico cuando en realidad es mecanico. Detectarlo pronto evita mas gasto de tiempo y mas correcciones innecesarias."
+    },
+    {
+      "slug": "cuando-conviene-hacer-un-tratamiento-de-choque",
+      "title": "Cuando conviene hacer un tratamiento de choque",
+      "excerpt": "No hay que usar choque por costumbre. Solo tiene sentido cuando el agua lo pide por uso, suciedad o desequilibrio.",
+      "category": "Problemas",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Un tratamiento de choque conviene cuando el agua pierde claridad, aparecen olores raros o el nivel de desinfectante ya no responde como deberia. Antes de llegar ahi, revisa pH y filtracion, porque muchas veces el problema se corrige mejor con ajustes previos. Usar choque sin diagnostico solo gasta producto y puede dejar el agua desequilibrada. La mejor practica es reservarlo para los casos en que realmente hace falta y no convertirlo en una solucion automatica."
+    },
+    {
+      "slug": "como-elegir-una-cubierta-que-de-verdad-te-robe-menos-tiempo",
+      "title": "Como elegir una cubierta que de verdad te robe menos tiempo",
+      "excerpt": "La mejor cubierta no es solo la mas fuerte: es la que vas a usar cada dia sin pensar demasiado.",
+      "category": "Seguridad",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "A la hora de elegir una cubierta, piensa primero en su uso real. Si cuesta demasiado ponerla o quitarla, acabara usandose poco. Revisa el sistema de anclaje, la resistencia y la comodidad diaria. Una cubierta practica ayuda a reducir suciedad, evaporacion y riesgos alrededor de la piscina. Tambien conviene que encaje bien con el tipo de vaso y con el espacio disponible para guardarla cuando no se use. La mejor opcion es la que realmente te ayuda cada semana, no la que solo suena bien en catalogo."
+    },
+    {
+      "slug": "como-detectar-si-la-bomba-de-la-piscina-hace-mas-ruido-de-lo-normal",
+      "title": "Como detectar si la bomba de la piscina hace mas ruido de lo normal",
+      "excerpt": "El ruido raro suele avisar antes de una averia mayor. Conviene revisar bomba, aire y vibraciones cuanto antes.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Una bomba que empieza a sonar mas de lo normal puede estar avisando de aire en el circuito, holguras, vibraciones o desgaste interno. Escucha si el ruido cambia al arrancar o si aumenta cuando el caudal sube. Tambien revisa que la base este estable y que no haya obstrucciones en cestas o prefiltro. Si dejas pasar el aviso, el problema puede acabar afectando al rendimiento de toda la depuracion. Detectarlo pronto suele salir mucho mas barato que esperar a que la bomba falle del todo."
+    },
+    {
+      "slug": "reapertura-de-piscina-despues-del-invierno-en-7-pasos",
+      "title": "Reapertura de piscina despues del invierno en 7 pasos",
+      "excerpt": "Abrir bien la temporada evita semanas de correcciones. El orden de los pasos marca la diferencia.",
+      "category": "Temporada",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Empieza retirando la cubierta y sacando restos visibles. Despues limpia el vaso, vacia cestas y revisa filtros y bombas. Mide pH y cloro antes de corregir nada. Si el agua esta fuera de rango, ajusta primero la quimica y despues la filtracion. Comprueba tambien juntas, tapas y posibles fugas. Una reapertura ordenada hace que la piscina entre en temporada con menos sobresaltos y menos consumo de producto."
+    },
+    {
+      "slug": "piscina-salina-que-mirar-para-que-la-sal-no-te-complique",
+      "title": "Piscina salina: que mirar para que la sal no te complique",
+      "excerpt": "La salinidad bien controlada ayuda, pero exige vigilar pH, clorador y estado del agua con regularidad.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "En una piscina salina no basta con echar sal y olvidarse. Hay que revisar pH, produccion del clorador salino y estado general del agua. Si la salinidad baja o sube demasiado, el sistema trabaja peor y el mantenimiento se complica. Lo comodo es comprobar valores de forma periodica y actuar con cambios pequenos. Asi evitas corrosiones, agua descompensada y una sensacion constante de estar corrigiendo problemas que podian prevenirse antes."
+    }
+  ],
+  "news": [
+    {
+      "slug": "mas-familias-adoptan-rutinas-cortas-de-control-del-agua",
+      "title": "Mas familias adoptan rutinas cortas de control del agua",
+      "summary": "Las mediciones rapidas y frecuentes ganan terreno frente a revisiones largas y poco constantes.",
+      "tag": "Mantenimiento",
+      "date": "3 junio 2026",
+      "content": "La tendencia apunta a controles breves varias veces por semana, con ajustes pequenos y sin esperar a que el agua se descontrole."
+    },
+    {
+      "slug": "sube-el-interes-por-bombas-eficientes-y-programacion-inteligente",
+      "title": "Sube el interes por bombas eficientes y programacion inteligente",
+      "summary": "La eficiencia energetica se ha convertido en uno de los criterios mas valorados al renovar la depuracion.",
+      "tag": "Filtracion",
+      "date": "3 junio 2026",
+      "content": "Cada vez mas usuarios comparan consumos, tramos horarios y velocidad variable antes de cambiar la bomba o ajustar su rutina."
+    },
+    {
+      "slug": "las-cubiertas-ganan-peso-como-apoyo-en-seguridad-y-ahorro",
+      "title": "Las cubiertas ganan peso como apoyo en seguridad y ahorro",
+      "summary": "La proteccion fisica y la reduccion de evaporacion hacen que muchas familias se planteen cubrir mejor la piscina.",
+      "tag": "Seguridad",
+      "date": "3 junio 2026",
+      "content": "Una cubierta util no solo protege, tambien ayuda a mantener mas estable el agua y a reducir trabajo semanal."
+    },
+    {
+      "slug": "el-calor-adelanta-la-puesta-a-punto-en-muchas-piscinas",
+      "title": "El calor adelanta la puesta a punto en muchas piscinas",
+      "summary": "La temporada alta se extiende y obliga a preparar la piscina antes de lo habitual.",
+      "tag": "Temporada",
+      "date": "3 junio 2026",
+      "content": "Muchos propietarios empiezan a revisar equipos y parametros semanas antes para evitar arrancar con agua desequilibrada."
+    },
+    {
+      "slug": "crecen-las-consultas-sobre-agua-turbia-tras-fines-de-semana-intensos",
+      "title": "Crecen las consultas sobre agua turbia tras fines de semana intensos",
+      "summary": "La combinacion de uso alto y filtracion corta sigue siendo una causa habitual de perdida de claridad.",
+      "tag": "Problemas",
+      "date": "3 junio 2026",
+      "content": "El patron se repite: mas bañistas, mas carga organica y menos margen para la filtracion si no se ajusta a tiempo."
+    },
+    {
+      "slug": "los-kits-digitales-ganan-presencia-frente-a-las-tiras-basicas",
+      "title": "Los kits digitales ganan presencia frente a las tiras basicas",
+      "summary": "La lectura mas clara de los valores ayuda a tomar decisiones de mantenimiento con menos errores.",
+      "tag": "Mantenimiento",
+      "date": "3 junio 2026",
+      "content": "Medir mejor evita correcciones innecesarias y reduce el tiempo que se tarda en dejar el agua en rango."
+    },
+    {
+      "slug": "sube-el-interes-por-checklists-de-verano-mas-simples",
+      "title": "Sube el interes por checklists de verano mas simples",
+      "summary": "Los formatos cortos y faciles de seguir ganan peso porque reducen olvidos y mejoran la constancia.",
+      "tag": "Temporada",
+      "date": "3 junio 2026",
+      "content": "Muchos usuarios prefieren listas breves con pocas tareas clave en lugar de planes largos que luego nadie sigue."
+    },
+    {
+      "slug": "crece-la-atencion-por-el-ahorro-energetico-en-piscinas",
+      "title": "Crece la atencion por el ahorro energetico en piscinas",
+      "summary": "La factura electrica empuja a revisar programas de filtracion y equipos mas eficientes.",
+      "tag": "Filtracion",
+      "date": "3 junio 2026",
+      "content": "Cada vez mas propietarios comparan horarios, potencia y velocidad variable para gastar menos sin perder calidad de agua."
+    },
+    {
+      "slug": "suben-las-consultas-sobre-reapertura-tras-el-invierno",
+      "title": "Suben las consultas sobre reapertura tras el invierno",
+      "summary": "La vuelta a la temporada obliga a poner orden en limpieza, quimica y equipo antes del primer baño.",
+      "tag": "Temporada",
+      "date": "3 junio 2026",
+      "content": "Cada vez mas hogares buscan listas cortas para abrir la piscina con menos errores y menos gasto de tiempo."
+    },
+    {
+      "slug": "mas-interes-por-revisar-ruidos-y-vibraciones-en-la-bomba",
+      "title": "Mas interes por revisar ruidos y vibraciones en la bomba",
+      "summary": "Las primeras señales mecanicas se observan antes de que el fallo afecte a la depuracion completa.",
+      "tag": "Filtracion",
+      "date": "3 junio 2026",
+      "content": "Detectar un ruido raro a tiempo permite actuar sobre aire, juntas o desgaste antes de que la bomba pierda rendimiento."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Nombre de tu sección",
+  "description": "Una frase que describa de qué trata: guías, análisis y referencias sobre este tema.",
+  "icon": "🔧",
+  "color": "#6366f1",
+  "badge": "Nuevo",
+  "order": 1,
+  "image": "thumb.jpg"
+}

@@ -1,0 +1,10 @@
+﻿{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.hablemosdegallinas.com" }],
+      "destination": "https://hablemosdegallinas.com/:path*",
+      "permanent": true
+    }
+  ]
+}
