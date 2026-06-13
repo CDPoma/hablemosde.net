@@ -43,6 +43,7 @@
       return "#publicaciones";
     }
 
+    if (type === 'post') return `./articulos/${slug}.html`;
     return `./entrada.html?type=${encodeURIComponent(type)}&slug=${encodeURIComponent(slug)}`;
   }
 

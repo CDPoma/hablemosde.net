@@ -15,4 +15,36 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Artículos estáticos -->
+  <url>
+    <loc>https://hablemosde.net/Gallinas/articulos/como-elegir-raza-gallinas.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Gallinas/articulos/gallinero-paso-a-paso.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Gallinas/articulos/alimentacion-gallinas-ponedoras.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Gallinas/articulos/enfermedades-comunes-gallinas-patio.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Gallinas/articulos/incubar-huevos-en-casa.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
