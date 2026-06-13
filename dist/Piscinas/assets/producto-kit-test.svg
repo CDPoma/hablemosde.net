@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-label="Kit test agua">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e7fffb"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="480" rx="28" fill="url(#g)"/>
+  <rect x="120" y="120" width="480" height="280" rx="44" fill="#ffffff" opacity="0.86"/>
+  <g>
+    <rect x="210" y="170" width="70" height="220" rx="28" fill="#0f8ec7" opacity="0.14"/>
+    <rect x="325" y="170" width="70" height="220" rx="28" fill="#2ed3c6" opacity="0.14"/>
+    <rect x="440" y="170" width="70" height="220" rx="28" fill="#0f8ec7" opacity="0.12"/>
+    <g stroke="#173042" stroke-opacity="0.55" stroke-width="8" stroke-linecap="round">
+      <path d="M245 220 h0"/>
+      <path d="M360 260 h0"/>
+      <path d="M475 240 h0"/>
+    </g>
+  </g>
+  <g fill="#173042" opacity="0.82">
+    <text x="128" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Kit test</text>
+    <text x="128" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="14">Imagen ilustrativa</text>
+  </g>
+</svg>

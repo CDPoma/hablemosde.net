@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-label="Limpiafondos">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d8f6ff"/>
+      <stop offset="1" stop-color="#e7fffb"/>
+    </linearGradient>
+    <linearGradient id="w" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f8ec7" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#2ed3c6" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="480" rx="28" fill="url(#g)"/>
+  <rect x="80" y="110" width="560" height="290" rx="50" fill="#ffffff" opacity="0.82"/>
+  <rect x="100" y="130" width="520" height="250" rx="42" fill="url(#w)"/>
+  <g fill="none" stroke="#173042" stroke-opacity="0.55" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M260 260 h200"/>
+    <path d="M300 230 h120"/>
+    <path d="M290 290 h140"/>
+    <path d="M360 190 v40"/>
+  </g>
+  <g fill="#173042" opacity="0.82">
+    <text x="88" y="74" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Limpiafondos</text>
+    <text x="88" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="14">Imagen ilustrativa</text>
+  </g>
+</svg>

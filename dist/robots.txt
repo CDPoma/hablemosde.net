@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Archivos de configuración y despliegue — no indexar
+Disallow: /docker-compose.yml
+Disallow: /Dockerfile
+Disallow: /nginx.conf
+Disallow: /compose.yaml
+
+# Sitemaps
+Sitemap: https://hablemosde.net/sitemap.xml

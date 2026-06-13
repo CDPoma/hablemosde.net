@@ -1,0 +1,207 @@
+{
+  "updatedAt": "2026-06-13T10:00:00+02:00",
+  "categoryOrder": ["Mantenimiento", "Guia de compra", "Suelo y nutrientes", "Control de plagas", "Temporada", "Riego", "Diseno"],
+  "posts": [
+    {
+      "slug": "como-mantener-cesped-verde-sano-todo-el-ano",
+      "title": "Cómo mantener el césped verde y sano durante todo el año sin gastar de más",
+      "excerpt": "La rutina estacional que siguen los jardineros profesionales: errores frecuentes y claves para reducir el consumo de agua hasta un 40%.",
+      "category": "Mantenimiento",
+      "date": "5 junio 2026",
+      "author": "Carmen Serrano",
+      "content": "Mantener un césped en perfectas condiciones durante los doce meses del año requiere entender cómo interactúan entre sí los factores clave: la textura del suelo, el pH, el patrón de riego, la frecuencia de corte y el abonado estacional. El principal error es regar a mediodía, lo que provoca quemaduras y pérdidas de agua del 60%. La altura de corte en verano debe ser de 5–7 cm para proteger las raíces del calor. El abonado primaveral con un NPK equilibrado y el aireado del suelo en otoño son las dos acciones que más impacto tienen en la salud del césped a largo plazo."
+    },
+    {
+      "slug": "mejor-cortacesped-robotico-2026",
+      "title": "Mejor cortacésped robótico en 2026: comparativa honesta de modelos y marcas líderes",
+      "excerpt": "Más de 20 modelos analizados: cable perimetral, GPS y cámara. Cuándo vale la pena la inversión y cuándo no.",
+      "category": "Guia de compra",
+      "date": "22 mayo 2026",
+      "author": "Carmen Serrano",
+      "content": "El mercado de los cortacéspedes robóticos ofrece tres familias principales. Los robots con cable perimetral (200–500 €) son suficientes para jardines de hasta 600 m² con formas regulares. Los robots con GPS sin cable (800–2.500 €) no requieren instalación de cable y son ideales para jardines complejos o con muchos obstáculos. Los robots con cámara e inteligencia artificial representan lo último en tecnología, con precios superiores a 2.000 €. Para jardines de menos de 400 m² y forma regular, un robot básico con cable es la opción más económica y fiable. La autonomía de batería, la pendiente máxima soportada y el nivel de ruido son los tres parámetros más relevantes para comparar modelos."
+    },
+    {
+      "slug": "control-ph-suelo-guia-completa",
+      "title": "Control del pH del suelo: todo lo que debes saber para que tus plantas absorban los nutrientes correctamente",
+      "excerpt": "El pH es el parámetro más ignorado y el que más afecta a la absorción de nutrientes y a la salud de las plantas.",
+      "category": "Suelo y nutrientes",
+      "date": "10 mayo 2026",
+      "author": "Carmen Serrano",
+      "content": "El pH del suelo determina la disponibilidad de todos los nutrientes esenciales. En suelos ácidos (pH inferior a 6.0), el hierro, el manganeso y el zinc se hacen más solubles y pueden llegar a niveles tóxicos, mientras que el fósforo, el calcio y el magnesio quedan bloqueados. En suelos alcalinos (pH superior a 7.5), ocurre lo contrario. El rango óptimo para la mayoría de plantas ornamentales es 6.0–7.0. Para bajar el pH de un suelo alcalino, aplica azufre elemental granulado (20–30 g/m²) o incorpora compost de turba. Para subir el pH de un suelo ácido, aplica cal agrícola (caliza molida, 100–200 g/m²). Mide siempre el pH antes de abonar: abonar sin conocer el pH es desperdiciar tiempo y dinero."
+    },
+    {
+      "slug": "eliminar-malas-hierbas-jardin-metodos",
+      "title": "Cómo eliminar malas hierbas del jardín de forma definitiva sin recurrir a herbicidas agresivos",
+      "excerpt": "Secuencia correcta: escarda → mantillo → herbicida selectivo puntual. Por qué aplicar herbicida sin más no funciona a largo plazo.",
+      "category": "Control de plagas",
+      "date": "10 abril 2026",
+      "author": "Carmen Serrano",
+      "content": "Las malas hierbas son inevitables en cualquier jardín, pero pueden controlarse de forma eficaz sin necesidad de herbicidas de amplio espectro. El primer paso es siempre la escarda manual en suelo húmedo, cuando las raíces salen enteras y limpias. El segundo paso es la aplicación de mantillo orgánico con una capa mínima de 5–8 cm, que priva de luz a las semillas de malas hierbas e impide su germinación durante toda la temporada. Para zonas de césped con gramíneas invasoras, un herbicida selectivo para hoja ancha aplicado en primavera o otoño es la opción más eficaz. El uso de telas geotextiles bajo el mantillo en arriates permanentes es la solución más duradera para zonas donde no se vayan a replantear plantas en los próximos 3–5 años."
+    },
+    {
+      "slug": "preparar-jardin-para-primavera-guia",
+      "title": "Preparar el jardín para la primavera: la guía completa para arrancar la temporada sin problemas",
+      "excerpt": "El orden de las tareas de primavera importa: análisis de suelo, poda, abonado de fondo y ajuste del riego antes de la primera plantación.",
+      "category": "Temporada",
+      "date": "20 marzo 2026",
+      "author": "Carmen Serrano",
+      "content": "La preparación de primavera es la inversión más rentable que puedes hacer en tu jardín. Las tareas por orden: 1) Análisis de pH del suelo y corrección si es necesario (2–3 semanas antes de plantar). 2) Poda de formación de árboles y arbustos caducifolios antes de la brotación. 3) Limpieza de hojas y restos vegetales del invierno. 4) Aireado del césped con forquilla o aerificador si el suelo está compactado. 5) Abonado de fondo con compost maduro o humus de lombriz. 6) Revisión y puesta a punto del sistema de riego: cambio de juntas, limpieza de filtros y programación del temporizador. 7) Primera plantación de temporada cuando el suelo supere los 10 °C de temperatura."
+    },
+    {
+      "slug": "sistema-riego-automatico-jardin-guia",
+      "title": "Cómo instalar un sistema de riego automático en el jardín: guía paso a paso",
+      "excerpt": "Riego por goteo, aspersores o difusores: cuál elegir y cómo instalarlo tú mismo con las herramientas adecuadas.",
+      "category": "Riego",
+      "date": "15 febrero 2026",
+      "author": "Carmen Serrano",
+      "content": "Un sistema de riego automático bien diseñado puede ahorrar hasta el 60% del agua respecto al riego manual y garantiza que las plantas reciben el agua que necesitan en el momento preciso. Antes de instalar nada, diseña el plano de tu jardín y clasifica las zonas por tipo de planta: arriates (riego por goteo), césped (aspersores emergentes) y macetas (goteros puntuales). La presión de la red doméstica en España oscila entre 2 y 4 bares, suficiente para cualquier sistema doméstico. Instala siempre un filtro de malla en la entrada del sistema y un programador con sensor de lluvia para evitar riegos innecesarios. La inversión media para un jardín de 200 m² con sistema de riego completo es de 400–800 €."
+    },
+    {
+      "slug": "poda-rosales-guia-completa",
+      "title": "Poda de rosales: cuándo, cómo y con qué herramientas para conseguir la floración perfecta",
+      "excerpt": "La poda correcta del rosal marca la diferencia entre una floración espléndida y una planta estresada con pocas flores pequeñas.",
+      "category": "Mantenimiento",
+      "date": "10 enero 2026",
+      "author": "Carmen Serrano",
+      "content": "La poda del rosal es una de las tareas más importantes del jardinero y una de las más temidas. La poda principal de formación se realiza al final del invierno (febrero en la España mediterránea, marzo en el interior), cuando los brotes comienzan a despertar pero antes de que las hojas se abran completamente. Elimina primero las ramas muertas, enfermas o que se cruzan. Poda sobre un ojo exterior sano, en corte diagonal a 45° y a 5 mm del yema, para favorecer el crecimiento hacia afuera y la ventilación de la planta. Las herramientas deben estar afiladas y desinfectadas con alcohol entre planta y planta para evitar transmitir hongos. Los rosales de floración repetida necesitan una poda de mantenimiento ligera tras cada tanda de floración para estimular la siguiente."
+    },
+    {
+      "slug": "plantas-sombra-jardin-guia",
+      "title": "Las mejores plantas para zonas de sombra del jardín: guía de selección por clima y estética",
+      "excerpt": "No todas las zonas del jardín reciben sol directo. Estas plantas prosperan en condiciones de sombra parcial o sombra total.",
+      "category": "Diseno",
+      "date": "5 diciembre 2025",
+      "author": "Carmen Serrano",
+      "content": "Las zonas de sombra del jardín no tienen por qué ser un problema. Existen decenas de plantas ornamentales que prosperan perfectamente sin sol directo y aportan textura, color y estructura al jardín durante todo el año. Para sombra parcial (2–4 horas de sol): hostas, astilbes, heucheras, helécho real y begonias de sombra. Para sombra profunda (menos de 2 horas de sol): ivy (hiedra), vinca, mahonia, rododendros y camelias en zonas de suelo ácido. Las plantas de sombra suelen necesitar más humedad y suelos ricos en materia orgánica, pero consumen mucha menos agua que las plantas de sol. El acolchado es especialmente importante en estas zonas para mantener la humedad y la temperatura del suelo estables."
+    },
+    {
+      "slug": "abonado-organico-vs-mineral-jardines",
+      "title": "Abono orgánico vs. mineral en el jardín: cuándo usar cada uno y cómo combinarlos correctamente",
+      "excerpt": "Compost, humus de lombriz, abono mineral de liberación controlada: cuál usar en cada situación y por qué la combinación de ambos da los mejores resultados.",
+      "category": "Suelo y nutrientes",
+      "date": "20 noviembre 2025",
+      "author": "Carmen Serrano",
+      "content": "Los abonos orgánicos (compost, humus de lombriz, estiércol compostado) actúan de forma lenta pero mejoran la estructura y la vida biológica del suelo a largo plazo. Son la base de cualquier jardín saludable. Los abonos minerales (NPK granulado, fertilizantes foliares) actúan de forma rápida y son ideales para corregir carencias visuales urgentes o para potenciar el crecimiento en momentos específicos del ciclo de la planta. La estrategia más eficaz es combinar ambos: abono orgánico de fondo en primavera y otoño, y fertilizante mineral de cobertura mensual durante la temporada de crecimiento. El abono orgánico no sustituye al análisis de suelo: aunque aportes compost de alta calidad, si el pH está desequilibrado, los nutrientes no estarán disponibles para las plantas."
+    },
+    {
+      "slug": "plagas-jardines-mas-comunes-control",
+      "title": "Las plagas más comunes del jardín y cómo controlarlas de forma eficaz sin dañar el ecosistema",
+      "excerpt": "Pulgón, araña roja, cochinilla, babosas y procesionaria: cómo identificar cada plaga y qué tratamiento es el más adecuado.",
+      "category": "Control de plagas",
+      "date": "1 octubre 2025",
+      "author": "Carmen Serrano",
+      "content": "El control integrado de plagas parte de la identificación correcta del problema antes de aplicar cualquier tratamiento. Las plagas más frecuentes en jardines españoles son: pulgón (primavera-verano, ataca tallos y hojas nuevas, control con jabón potásico o imidacloprid en casos graves), araña roja (verano seco y caluroso, produce punteado amarillo en hojas, control con acaricida o agua a presión), cochinilla algodonosa (todo el año en plantas de interior y exterior, eliminar manualmente y tratar con aceite de neem o clorpirifos), babosas y caracoles (primavera húmeda, control con pellets de fosfato de hierro, inocuo para mascotas y fauna), y procesionaria del pino (otoño-invierno, trampa de feromona o tratamiento biológico con Bacillus thuringiensis). Fomenta la presencia de insectos beneficiosos plantando flores silvestres: una sola planta de lavanda puede atraer más polinizadores que toda una zona de césped."
+    },
+    {
+      "slug": "plantas-jardin-mediterraneo-espana",
+      "title": "Las mejores plantas para un jardín mediterráneo en España",
+      "excerpt": "Lavanda, romero, cistus y agapantos: las especies que aguantan el calor, el suelo seco y siguen siendo espectaculares en verano.",
+      "category": "Diseño",
+      "date": "8 junio 2026",
+      "author": "Carmen Serrano",
+      "content": "El jardín mediterráneo se basa en elegir plantas que hayan evolucionado para sobrevivir veranos secos y calurosos sin riegos frecuentes. Las opciones más fiables para España son: lavanda (Lavandula angustifolia y L. stoechas), romero en todas sus variedades, cistus de flor blanca o rosa para zonas soleadas, agapantos para dar color en verano, y olivillo (Phillyrea) como alternativa al boj sin problemas de enfermedades. Para zonas de sombra parcial, el durillo (Viburnum tinus) y la pitósporo son dos opciones que crecen sin apenas agua una vez establecidas. La clave del jardín mediterráneo es la preparación del suelo: no hay que enriquecer ni retener humedad, sino mejorar el drenaje para que las raíces no sufran en verano. Las plantas mediterráneas mueren más por exceso de agua que por falta de ella."
+    },
+    {
+      "slug": "riego-jardin-mediterraneo-ahorro-agua",
+      "title": "Riego en el jardín mediterráneo: cómo ahorrar agua sin sacrificar el aspecto",
+      "excerpt": "El riego por goteo, la hora correcta y el mantillo son los tres factores que marcan la diferencia entre un jardín mediterráneo sostenible y uno que consume agua como el césped.",
+      "category": "Riego",
+      "date": "7 junio 2026",
+      "author": "Carmen Serrano",
+      "content": "El jardín mediterráneo bien diseñado puede reducir el consumo de agua hasta un 70% respecto a un jardín de césped convencional, pero solo si el sistema de riego está bien pensado. El goteo localizado a nivel de raíz es el método más eficiente: evita pérdidas por evaporación y mantiene el follaje seco, lo que reduce enfermedades fúngicas. El momento óptimo de riego es al amanecer o al atardecer, nunca a mediodía. El mantillo orgánico con una capa de 7-10 cm reduce la evaporación del suelo hasta un 50% y regula la temperatura. En jardines establecidos (más de dos años), la mayoría de plantas mediterráneas solo necesitan riego en julio y agosto. La instalación de un programador con sensor de lluvia es la inversión con mayor retorno en reducción del consumo de agua."
+    },
+    {
+      "slug": "mantenimiento-jardin-mediterraneo-calendario",
+      "title": "Calendario de mantenimiento del jardín mediterráneo mes a mes",
+      "excerpt": "Las tareas correctas en el momento correcto: por qué el jardín mediterráneo requiere trabajo en primavera y otoño, y casi nada en verano.",
+      "category": "Mantenimiento",
+      "date": "6 junio 2026",
+      "author": "Carmen Serrano",
+      "content": "Enero-febrero: poda de formación de arbustos leñosos como lavanda y romero, justo antes de la brotación. Corta como máximo un tercio del volumen para no agotar la planta. Marzo-abril: momento clave para plantar nuevas especies mediterráneas antes del calor. Aplica compost maduro y revisa el sistema de riego. Mayo: última oportunidad para plantar antes del verano. Aplica mantillo orgánico en toda la superficie. Junio-agosto: mínimo mantenimiento. Solo riego de emergencia para plantas recién plantadas. No podar en este período. Septiembre-octubre: el mejor momento para plantar bulbos, dividir matas y abonar de fondo. Noviembre-diciembre: recogida de hojas, revisión de tutores y última poda de limpieza del año."
+    },
+    {
+      "slug": "setos-jardin-formal-especies-poda",
+      "title": "Setos para jardín formal: las mejores especies y cómo podarlos correctamente",
+      "excerpt": "Tejo, carpe, boj o laurelina: qué especie elegir según el efecto visual que buscas y cómo conseguir la línea perfecta.",
+      "category": "Diseño",
+      "date": "5 junio 2026",
+      "author": "Carmen Serrano",
+      "content": "El seto es el elemento estructural más importante del jardín formal. Las mejores opciones para España son: tejo (Taxus baccata) para setos altos con sombra, ideal para clima atlántico, crece lento pero aguanta podas muy severas; carpe (Carpinus betulus) para setos de porte medio en zonas con inviernos fríos; laurelina (Viburnum tinus) para setos informales en clima mediterráneo con flor blanca en invierno; pitósporo (Pittosporum tobira) para climas cálidos, muy resistente y aromático. La poda formal se realiza dos veces al año: mayo para la brotación de primavera y agosto para definir el perfil de invierno. Usa siempre un hilo guía para mantener las líneas rectas y corta los lados ligeramente inclinados hacia adentro para que la base reciba más luz."
+    },
+    {
+      "slug": "cesped-impecable-jardin-ingles-guia",
+      "title": "Cómo conseguir el césped impecable del jardín inglés: siembra, riego y corte",
+      "excerpt": "El césped inglés requiere la mezcla de semillas correcta, un programa de mantenimiento estacional y una altura de corte precisa según la época del año.",
+      "category": "Mantenimiento",
+      "date": "4 junio 2026",
+      "author": "Carmen Serrano",
+      "content": "El césped del jardín inglés clásico se caracteriza por rayas alternadas, altura uniforme y ausencia de malas hierbas. La mezcla de semillas debe contener al menos un 70% de festuca y un 30% de agrostis para crear una textura fina. La siembra se realiza en septiembre, con temperaturas del suelo entre 10 y 18 °C. La altura de corte es el factor más crítico: en primavera y otoño, 2,5-3 cm; en verano, 4-5 cm para proteger las raíces del calor. El riego en verano debe realizarse en profundidad pero con poca frecuencia: regar abundantemente cada 3-4 días es mejor que superficialmente cada día. El aireado con escarificador en septiembre y la aplicación de arena de sílice para mejorar el drenaje son las dos tareas que más impactan en la calidad del césped a largo plazo."
+    },
+    {
+      "slug": "borduras-floridas-jardin-formal-plantas",
+      "title": "Borduras floridas para el jardín formal: plantas, colores y temporadas",
+      "excerpt": "Cómo diseñar una bordura herbácea que tenga color de primavera a otoño combinando perennes, bulbos y anuales de temporada.",
+      "category": "Diseño",
+      "date": "3 junio 2026",
+      "author": "Carmen Serrano",
+      "content": "Una bordura herbácea bien diseñada tiene siempre algo en flor desde febrero hasta noviembre. La estructura se basa en tres capas: plantas altas al fondo (delfinium, verbascum, helenium), plantas de porte medio en el centro (perovskia, phlox, sedum, geranium) y plantas de borde bajo al frente (alchemilla, heuchera, bergenia). Para garantizar el relevo de floración combina: bulbos de primavera (tulipanes, narcisos) plantados en octubre; perennes de verano (helenium, echinops, agapanto, rudbeckia); y matorrales de otoño (aster, anemona japonesa, sedum spectabile). La paleta del jardín formal inglés se basa en colores pastel con toques azul-morado: rosa, blanco, lavanda, amarillo suave y naranja. Planta siempre en grupos de impar (3, 5 o 7 plantas) para conseguir un efecto natural dentro del marco formal."
+    },
+    {
+      "slug": "plantas-autoctonas-jardin-silvestre-espana",
+      "title": "Plantas autóctonas para jardín silvestre en España: cuáles usar y cómo combinarlas",
+      "excerpt": "Encina, jaras, enebros, lavandas y gramíneas silvestres: la paleta vegetal española que crece sin apenas cuidados y atrae biodiversidad.",
+      "category": "Diseño",
+      "date": "2 junio 2026",
+      "author": "Carmen Serrano",
+      "content": "Las plantas autóctonas españolas son la base más sólida para un jardín silvestre. Para la zona mediterránea las más efectivas son: coscoja (Quercus coccifera) como arbusto estructural, jara pringosa (Cistus ladanifer) para zonas soleadas con suelo pobre, cantueso (Lavandula stoechas) para atraer insectos polinizadores, romero (Salvia rosmarinus) como cubresuelos y en setos informales, y enebro rojo (Juniperus oxycedrus) como toque vertical. Para climas atlánticos, el brezo (Calluna vulgaris), la madreselva autóctona (Lonicera periclymenum) y el helecho real (Osmunda regalis) son excelentes opciones. La combinación de plantas con diferentes épocas de floración garantiza que siempre haya néctar para insectos: primavera (jaras), verano (lavandas) e invierno (Viburnum tinus)."
+    },
+    {
+      "slug": "pradera-flores-silvestres-como-crear",
+      "title": "Cómo crear una pradera de flores silvestres desde cero en tu jardín",
+      "excerpt": "La pradera de flores silvestres requiere la preparación correcta del suelo, la siembra adecuada y un programa de gestión anual.",
+      "category": "Diseño",
+      "date": "1 junio 2026",
+      "author": "Carmen Serrano",
+      "content": "Una pradera de flores silvestres exitosa empieza por un suelo pobre. El error más común es sembrar sobre tierra fértil: las gramíneas agresivas dominan y las flores silvestres desaparecen en dos o tres años. Para preparar el suelo, retira los primeros 15-20 cm de tierra vegetal o agota la fertilidad con cultivos de verano antes de sembrar. La mezcla de siembra ideal para España combina semillas autóctonas (60-70%) con flores de origen europeo: amapola, aciano, escabiosa, zanahoria silvestre, centáurea, onagra. Siembra en septiembre para aprovechar las lluvias de otoño. El mantenimiento anual consiste en un único corte a finales de agosto o principios de septiembre, cuando las semillas están maduras y antes de que caigan al suelo. Sin este corte, las gramíneas toman el control en 3-4 años."
+    },
+    {
+      "slug": "jardin-naturalista-fauna-refugios-biodiversidad",
+      "title": "Jardín naturalista y biodiversidad: cómo atraer aves, abejas e insectos beneficiosos",
+      "excerpt": "Un jardín rico en biodiversidad es más resistente y más fácil de mantener: los predadores naturales controlan las plagas sin intervención química.",
+      "category": "Diseño",
+      "date": "31 mayo 2026",
+      "author": "Carmen Serrano",
+      "content": "Un jardín que atrae fauna beneficiosa necesita cuatro elementos: fuente de agua permanente, zonas de refugio, plantas con semillas y plantas con néctar. La fuente de agua es el elemento con mayor impacto: un bebedero para pájaros elevado o un pequeño estanque natural atrae insectos, anfibios y aves que controlan plagas de forma natural. Las zonas de refugio incluyen montones de leña muerta (refugio de erizo y salamanquesa), piedras apiladas en zonas soleadas (refugio de lagarto) y arbustos densos sin podar (nido de pájaros). Para atraer abejas, instala un hotel de insectos y planta lavanda, borraja, facelia y cebolla ornamental. Para atraer pájaros insectívoros como carboneros y herrerillos, instala cajas nido y planta árboles con frutos: espino albar, cornejo y escaramujo son los más efectivos."
+    }
+  ],
+  "news": [
+    {
+      "slug": "nueva-normativa-fitosanitarios-jardines-2026",
+      "tag": "Normativa",
+      "title": "Nueva normativa sobre uso de fitosanitarios en jardines privados y comunidades",
+      "summary": "La revisión del reglamento europeo actualiza las dosis máximas permitidas de herbicidas en zonas verdes urbanas y exige registro de aplicaciones en jardines comunitarios de más de 500 m².",
+      "date": "junio 2026"
+    },
+    {
+      "slug": "robots-cortacesped-gps-crecimiento-ventas",
+      "tag": "Mercado",
+      "title": "Los robots cortacésped con GPS sin cable crecen un 41% en ventas en el primer trimestre de 2026",
+      "summary": "La eliminación del cable perimetral y la mejora de la precisión GPS están desplazando a los modelos con cable en el segmento residencial premium de jardines superiores a 1.000 m².",
+      "date": "mayo 2026"
+    },
+    {
+      "slug": "jardines-lluvia-plantas-autóctonas-ahorro-agua",
+      "tag": "Sostenibilidad",
+      "title": "Jardines de lluvia: cómo reducir el consumo de agua del jardín hasta un 60% con plantas autóctonas",
+      "summary": "Los estudios de eficiencia hídrica en jardines residenciales confirman que la sustitución del césped por plantas autóctonas es la inversión con mayor retorno en reducción del consumo de agua.",
+      "date": "abril 2026"
+    },
+    {
+      "slug": "tendencia-xerojardineria-espana-2026",
+      "tag": "Tendencias",
+      "title": "La xerojardinería se consolida en España como respuesta a la sequía recurrente",
+      "summary": "El diseño de jardines con plantas de bajo consumo hídrico crece un 28% en nuevas instalaciones. Los viveros especializados en flora autóctona mediterránea registran stocks mínimos ante la demanda creciente.",
+      "date": "marzo 2026"
+    }
+  ]
+}
