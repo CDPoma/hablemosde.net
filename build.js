@@ -163,12 +163,10 @@ const cardsHTML = sites.length === 0
       return adSlot ? [card, adSlot] : [card];
     }).join('\n');
 
-const searchBlock = sites.length > 6
-  ? `<div class="search-wrap">
-        <input type="search" id="searchBox" placeholder="Buscar tema…" autocomplete="off" aria-label="Buscar tema" />
-        <svg class="search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      </div>`
-  : '';
+const searchBlock = `<div class="search-wrap">
+        <input type="search" id="searchBox" placeholder="Busca un tema…" autocomplete="off" aria-label="Buscar tema" />
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/></svg>
+      </div>`;
 
 const countLabel = '';
 
@@ -180,29 +178,91 @@ const html = `<!DOCTYPE html>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Más de 50 temas explicados con claridad. Cuando no sabes algo, cuando tienes dudas o cuando quieres confirmar lo que ya crees saber." />
+
+  <!-- SEO básico -->
+  <title>HablemosDE — Resuelve tus dudas sobre cualquier tema</title>
+  <meta name="description" content="Más de 50 temas explicados con claridad y criterio. Piscinas, gallinas y mucho más. Cuando no sabes algo, cuando tienes dudas o cuando quieres confirmar lo que ya crees saber." />
   <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://hablemosde.net/" />
+
+  <!-- Open Graph -->
   <meta property="og:title" content="HablemosDE — Resuelve tus dudas sobre cualquier tema" />
-  <meta property="og:description" content="Más de 50 temas. Cuando no sabes algo, cuando tienes dudas o cuando quieres confirmar lo que ya crees saber." />
+  <meta property="og:description" content="Más de 50 temas explicados con claridad. Piscinas, gallinas y mucho más. Sin rodeos." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://hablemosde.net/" />
-  <title>HablemosDE — Resuelve tus dudas sobre cualquier tema</title>
+  <meta property="og:image" content="https://hablemosde.net/assets/img/og-hablemosde.jpg" />
+  <meta property="og:image:alt" content="HablemosDE — Directorio de guías sobre piscinas, gallinas y más temas" />
+  <meta property="og:site_name" content="HablemosDE" />
+  <meta property="og:locale" content="es_ES" />
+
+  <!-- Twitter / X Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="HablemosDE — Resuelve tus dudas sobre cualquier tema" />
+  <meta name="twitter:description" content="Más de 50 temas explicados con claridad. Sin rodeos." />
+  <meta name="twitter:image" content="https://hablemosde.net/assets/img/og-hablemosde.jpg" />
+
+  <!-- Datos estructurados JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "HablemosDE",
+    "url": "https://hablemosde.net/",
+    "description": "Más de 50 temas explicados con claridad. Piscinas, gallinas y mucho más.",
+    "inLanguage": "es",
+    "publisher": { "@type": "Organization", "name": "HablemosDE", "url": "https://hablemosde.net/" },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": { "@type": "EntryPoint", "urlTemplate": "https://hablemosde.net/?q={search_term_string}" },
+      "query-input": "required name=search_term_string"
+    }
+  }
+  <\/script>
+
+  <!-- AdSense -->
+  <meta name="google-adsense-account" content="ca-pub-3406678601655942" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3406678601655942" crossorigin="anonymous"><\/script>
+
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-  <meta name="google-adsense-account" content="ca-pub-3406678601655942" />
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3406678601655942" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="/assets/css/style.css" />
 </head>
 <body>
 
   <header class="site-header">
+    <div class="header-bg-shapes" aria-hidden="true">
+      <div class="header-shape header-shape--1"></div>
+      <div class="header-shape header-shape--2"></div>
+      <div class="header-shape header-shape--3"></div>
+    </div>
     <div class="header-inner">
+      <div class="header-year-badge">
+        <span class="header-year-dot"></span>
+        Guías actualizadas ${YEAR}
+      </div>
       <div class="logo">
         <span class="logo-hablemos">Hablemos</span><span class="logo-de">DE</span>
       </div>
-      <p class="header-tagline">Cuando no sabes, cuando dudas, cuando quieres confirmar</p>
-      <p class="header-desc">Más de 50 temas explicados con claridad. Elige cualquier sección y encuentra respuestas directas, sin rodeos.</p>
+      <p class="header-tagline">Cuando no sabes &middot; Cuando dudas &middot; Cuando quieres confirmar</p>
+      <p class="header-desc">Más de 50 temas explicados con claridad y criterio. Elige cualquier sección y encuentra respuestas directas, sin rodeos.</p>
+      <div class="header-stats">
+        <div class="header-stat">
+          <span class="header-stat-num">50+</span>
+          <span class="header-stat-label">Temas</span>
+        </div>
+        <div class="header-stat-divider"></div>
+        <div class="header-stat">
+          <span class="header-stat-num">100%</span>
+          <span class="header-stat-label">Sin rodeos</span>
+        </div>
+        <div class="header-stat-divider"></div>
+        <div class="header-stat">
+          <span class="header-stat-num">${YEAR}</span>
+          <span class="header-stat-label">Actualizado</span>
+        </div>
+      </div>
       ${searchBlock}
     </div>
   </header>
