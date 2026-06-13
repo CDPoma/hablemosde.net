@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Portada de Jardinería -->
+  <url>
+    <loc>https://hablemosdejardineria.com/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Artículos principales -->
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=como-mantener-cesped-verde-sano-todo-el-ano</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=mejor-cortacesped-robotico-2026</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=control-ph-suelo-guia-completa</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=eliminar-malas-hierbas-jardin-metodos</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=preparar-jardin-para-primavera-guia</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=sistema-riego-automatico-jardin-guia</loc>
+    <lastmod>2026-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=poda-rosales-guia-completa</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=plantas-sombra-jardin-guia</loc>
+    <lastmod>2025-12-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=abonado-organico-vs-mineral-jardines</loc>
+    <lastmod>2025-11-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/entrada.html?type=post&amp;slug=plagas-jardines-mas-comunes-control</loc>
+    <lastmod>2025-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Páginas estáticas -->
+  <url>
+    <loc>https://hablemosdejardineria.com/preguntas-frecuentes.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/aviso-legal.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/privacidad.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://hablemosdejardineria.com/cookies.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+</urlset>
