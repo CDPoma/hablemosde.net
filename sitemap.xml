@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Sitemap raíz de hablemosde.net — índice de sitemaps por sección -->
 
-  <!-- Sitemap de la web madre -->
   <sitemap>
     <loc>https://hablemosde.net/sitemap-main.xml</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </sitemap>
 
-  <!-- Sitemap de Piscinas (hablemosde.net/Piscinas/ y hablemosdepiscinas.com) -->
   <sitemap>
     <loc>https://hablemosde.net/Piscinas/sitemap.xml</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </sitemap>
 
-  <!-- Sitemap de Gallinas (hablemosde.net/Gallinas/ y hablemosdegallinas.com) -->
   <sitemap>
     <loc>https://hablemosde.net/Gallinas/sitemap.xml</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://hablemosde.net/Jardin/sitemap.xml</loc>
+    <lastmod>2026-06-13</lastmod>
   </sitemap>
 
 </sitemapindex>
