@@ -5,12 +5,13 @@ const fs   = require('fs');
 const path = require('path');
 
 const ROOT   = __dirname;
-const OUTPUT = path.join(ROOT, 'index.html');
+const PUBLIC = path.join(ROOT, 'public');
+const OUTPUT = path.join(PUBLIC, 'index.html');
 
 // Folders that are never niche sites
 const SKIP = new Set([
   'assets', 'node_modules', '.git', '_admin',
-  'dist', '.cloudflare', '.well-known', 'functions'
+  'dist', 'public', '.cloudflare', '.well-known', 'functions'
 ]);
 
 // ── Auto-theme detection ──────────────────────────────────────────────────────
@@ -300,6 +301,35 @@ const html = `<!DOCTYPE html>
 </body>
 </html>`;
 
+// Ensure public/ exists
+if (!fs.existsSync(PUBLIC)) fs.mkdirSync(PUBLIC);
 fs.writeFileSync(OUTPUT, html, 'utf8');
-console.log(`\n✅  index.html generado con ${sites.length} sitio(s)`);
+
+// Copy static assets and sub-sites into public/
+function copyDir(src, dest) {
+  if (!fs.existsSync(dest)) fs.mkdirSync(dest, { recursive: true });
+  for (const entry of fs.readdirSync(src)) {
+    const s = path.join(src, entry);
+    const d = path.join(dest, entry);
+    if (fs.statSync(s).isDirectory()) copyDir(s, d);
+    else fs.copyFileSync(s, d);
+  }
+}
+
+// Copy shared assets
+if (fs.existsSync(path.join(ROOT, 'assets')))
+  copyDir(path.join(ROOT, 'assets'), path.join(PUBLIC, 'assets'));
+
+// Copy each sub-site
+for (const s of sites) {
+  copyDir(path.join(ROOT, s.slug), path.join(PUBLIC, s.slug));
+}
+
+// Copy ads.txt, robots.txt, sitemap at root level
+for (const f of ['ads.txt', 'robots.txt', 'sitemap.xml', 'sitemap-index.xml']) {
+  const src = path.join(ROOT, f);
+  if (fs.existsSync(src)) fs.copyFileSync(src, path.join(PUBLIC, f));
+}
+
+console.log(`\n✅  index.html generado con ${sites.length} sitio(s) en /public`);
 if (sites.length) console.log('   ' + sites.map(s => `${s.emoji} ${s.name}`).join('\n   '));

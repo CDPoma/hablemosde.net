@@ -1,0 +1,7 @@
+Branding actualizado a 'HablemosdePiscinas' en index.html:
+- Título, meta y og tags
+- Logo y textos de cabecera
+- Organización y descripciones
+- Hero y textos principales
+
+Este cambio está guardado localmente. Sube este archivo y el index.html actualizado a tu repositorio de GitHub para mantener el branding consistente.

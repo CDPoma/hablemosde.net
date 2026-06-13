@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-label="Cloro en tabletas">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff3df"/>
+      <stop offset="1" stop-color="#d8f6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="480" rx="28" fill="url(#g)"/>
+  <g>
+    <rect x="120" y="120" width="480" height="280" rx="40" fill="#ffffff" opacity="0.86"/>
+    <circle cx="320" cy="250" r="58" fill="#0f8ec7" opacity="0.14"/>
+    <circle cx="420" cy="250" r="58" fill="#2ed3c6" opacity="0.14"/>
+    <circle cx="370" cy="320" r="58" fill="#0f8ec7" opacity="0.12"/>
+    <g fill="#173042" opacity="0.55">
+      <rect x="250" y="200" width="60" height="16" rx="8"/>
+      <rect x="410" y="200" width="60" height="16" rx="8"/>
+      <rect x="330" y="270" width="60" height="16" rx="8"/>
+    </g>
+  </g>
+  <g fill="#173042" opacity="0.82">
+    <text x="128" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Cloro en tabletas</text>
+    <text x="128" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="14">Imagen ilustrativa</text>
+  </g>
+</svg>

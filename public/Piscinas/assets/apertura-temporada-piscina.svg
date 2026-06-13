@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="Apertura de piscina al inicio de la temporada de verano">
+  <defs>
+    <linearGradient id="springBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bfecff"/>
+      <stop offset="1" stop-color="#e8f5e9"/>
+    </linearGradient>
+    <linearGradient id="freshWater" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38d9f0"/>
+      <stop offset="1" stop-color="#0b8ec7"/>
+    </linearGradient>
+    <linearGradient id="coverGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6b7280"/>
+      <stop offset="1" stop-color="#4b5563"/>
+    </linearGradient>
+    <radialGradient id="sunGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fef08a" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <!-- Sky gradient background -->
+  <rect width="800" height="400" fill="url(#springBg)"/>
+
+  <!-- Sun -->
+  <circle cx="680" cy="70" r="45" fill="#fef08a" filter="url(#glow)"/>
+  <circle cx="680" cy="70" r="35" fill="#fde047"/>
+  <!-- Sun rays -->
+  <g stroke="#fde047" stroke-width="3" stroke-linecap="round" opacity="0.7">
+    <line x1="680" y1="15" x2="680" y2="5"/>
+    <line x1="680" y1="125" x2="680" y2="135"/>
+    <line x1="625" y1="70" x2="615" y2="70"/>
+    <line x1="735" y1="70" x2="745" y2="70"/>
+    <line x1="641" y1="31" x2="634" y2="24"/>
+    <line x1="719" y1="109" x2="726" y2="116"/>
+    <line x1="719" y1="31" x2="726" y2="24"/>
+    <line x1="641" y1="109" x2="634" y2="116"/>
+  </g>
+
+  <!-- Ground / deck -->
+  <rect x="0" y="280" width="800" height="120" fill="#d9c9a0"/>
+  <!-- Grass strip -->
+  <rect x="0" y="270" width="800" height="20" fill="#5cb85c" opacity="0.8"/>
+
+  <!-- Flowers in grass -->
+  <g fill="#ef4444" opacity="0.9">
+    <circle cx="60" cy="272" r="5"/>
+    <circle cx="130" cy="268" r="4"/>
+    <circle cx="200" cy="275" r="5"/>
+    <circle cx="620" cy="270" r="4"/>
+    <circle cx="700" cy="273" r="5"/>
+    <circle cx="760" cy="269" r="4"/>
+  </g>
+  <g fill="#f9a825" opacity="0.9">
+    <circle cx="95" cy="270" r="4"/>
+    <circle cx="165" cy="274" r="5"/>
+    <circle cx="660" cy="272" r="4"/>
+    <circle cx="730" cy="268" r="5"/>
+  </g>
+
+  <!-- Pool outer frame -->
+  <rect x="80" y="180" width="640" height="230" rx="14" fill="#ccc4b0"/>
+  <!-- Pool border tiles -->
+  <rect x="95" y="193" width="610" height="204" rx="10" fill="#b8b0a0"/>
+  <!-- Pool water -->
+  <rect x="110" y="207" width="580" height="176" rx="8" fill="url(#freshWater)"/>
+
+  <!-- Water surface sparkles -->
+  <path d="M130 240 Q 240 228, 350 240 Q 460 252, 570 240 Q 640 232, 680 240" fill="none" stroke="#7de8ff" stroke-width="2" opacity="0.5"/>
+  <path d="M130 280 Q 260 268, 400 280 Q 540 292, 680 280" fill="none" stroke="#7de8ff" stroke-width="1.5" opacity="0.4"/>
+  <ellipse cx="300" cy="250" rx="40" ry="10" fill="#a0f0ff" opacity="0.2"/>
+  <ellipse cx="550" cy="300" rx="50" ry="12" fill="#a0f0ff" opacity="0.18"/>
+
+  <!-- Pool cover being folded back (right side) -->
+  <rect x="450" y="200" width="240" height="190" rx="8" fill="url(#coverGrad)" opacity="0.88"/>
+  <!-- Cover folds/texture -->
+  <line x1="450" y1="200" x2="690" y2="200" stroke="#9ca3af" stroke-width="2" opacity="0.5"/>
+  <line x1="450" y1="230" x2="690" y2="230" stroke="#9ca3af" stroke-width="1.5" opacity="0.4"/>
+  <line x1="450" y1="260" x2="690" y2="260" stroke="#9ca3af" stroke-width="1.5" opacity="0.4"/>
+  <line x1="450" y1="290" x2="690" y2="290" stroke="#9ca3af" stroke-width="1.5" opacity="0.4"/>
+  <line x1="450" y1="320" x2="690" y2="320" stroke="#9ca3af" stroke-width="1.5" opacity="0.4"/>
+  <line x1="450" y1="350" x2="690" y2="350" stroke="#9ca3af" stroke-width="1.5" opacity="0.4"/>
+  <!-- Cover roll edge -->
+  <ellipse cx="455" cy="295" rx="12" ry="95" fill="#374151" opacity="0.8"/>
+  <ellipse cx="455" cy="295" rx="8" ry="91" fill="#4b5563" opacity="0.7"/>
+
+  <!-- Cleaning pole / brush -->
+  <rect x="315" y="155" width="8" height="200" rx="4" fill="#b45309" opacity="0.85" transform="rotate(-15, 319, 255)"/>
+  <rect x="280" y="338" width="75" height="22" rx="5" fill="#0b8ec7" opacity="0.9" transform="rotate(-15, 319, 349)"/>
+
+  <!-- Calendar badge -->
+  <g transform="translate(108, 195)">
+    <rect width="80" height="65" rx="8" fill="#ffffff" opacity="0.92"/>
+    <rect width="80" height="20" rx="8" fill="#22c55e"/>
+    <rect y="14" width="80" height="6" fill="#22c55e"/>
+    <text x="40" y="15" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff" text-anchor="middle">ABRIL</text>
+    <text x="40" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="#1e3a5f" text-anchor="middle">2026</text>
+  </g>
+
+  <!-- Label badge -->
+  <rect x="80" y="345" width="240" height="36" rx="18" fill="#0b6fa8" opacity="0.88"/>
+  <text x="200" y="368" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Apertura de temporada · Primavera</text>
+</svg>

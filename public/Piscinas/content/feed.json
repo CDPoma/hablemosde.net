@@ -1,0 +1,391 @@
+﻿{
+  "updatedAt": "2026-06-03T12:00:00+02:00",
+  "categoryOrder": [
+    "Mantenimiento",
+    "Problemas",
+    "Filtracion",
+    "Seguridad",
+    "Temporada"
+  ],
+  "posts": [
+    {
+      "slug": "como-ajustar-el-ph-sin-danar-el-agua",
+      "title": "Como ajustar el pH sin danar el agua",
+      "excerpt": "El pH bien ajustado mejora la eficacia del cloro y evita irritaciones. La clave es corregir poco a poco y volver a medir.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Antes de tocar nada, mide pH, cloro libre y alcalinidad. Si el pH esta alto, añade reductor en dosis pequeñas con la bomba en marcha y espera unas horas antes de repetir la lectura. Si el pH esta bajo, corrige en sentido contrario con el producto adecuado y sin saltos bruscos. Una piscina estable no se consigue con una gran correccion puntual, sino con ajustes pequeños y medidos. Si la alcalinidad esta fuera de rango, corrige primero esa parte porque influye mucho en la estabilidad del pH. Revisa los valores una vez por semana en temporada alta para evitar oscilaciones que luego obligan a gastar mas producto y mas tiempo de mantenimiento."
+    },
+    {
+      "slug": "rutina-semanal-de-20-minutos-para-piscina-domestica",
+      "title": "Rutina semanal de 20 minutos para piscina domestica",
+      "excerpt": "Una rutina corta, repetible y realista ayuda mas que una limpieza larga y esporadica. Menos caos, mas constancia.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Divide el mantenimiento en pasos fijos. Primero vacia cestas y skimmers. Despues cepilla paredes, esquinas y linea de flotacion. Luego mide pH y cloro para corregir si hace falta. Por ultimo comprueba el estado del filtro y la presion. Si repites esta secuencia cada semana, la piscina se mantiene mucho mas estable y resulta mas facil detectar cualquier cambio raro antes de que se convierta en un problema. Esta rutina encaja muy bien en piscinas familiares porque no exige mucho tiempo y evita trabajar a contrarreloj cuando el agua ya se ha descompensado."
+    },
+    {
+      "slug": "agua-turbia-despues-de-mucho-uso-que-revisar-primero",
+      "title": "Agua turbia despues de mucho uso: que revisar primero",
+      "excerpt": "Cuando sube la carga de baño, lo primero no es echar mas producto. Hay que ordenar la correccion y revisar filtracion.",
+      "category": "Problemas",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Si el agua se vuelve turbia despues de un dia intenso, empieza por medir pH y cloro libre. Si el pH esta fuera de rango, el desinfectante pierde eficacia y la turbidez tarda mas en desaparecer. Despues comprueba el tiempo de filtracion y el estado del prefiltro. En muchos casos el problema no es solo quimico, sino una combinacion de uso alto, poca depuracion y suciedad acumulada. Cepilla el vaso, limpia cestas y deja la bomba trabajando el tiempo suficiente para recuperar claridad. Si la turbidez sigue, revisa el filtro y limpia el medio filtrante segun toque."
+    },
+    {
+      "slug": "por-que-salen-algas-en-las-esquinas-y-como-pararlas",
+      "title": "Por que salen algas en las esquinas y como pararlas",
+      "excerpt": "Las esquinas y zonas con poco movimiento son el lugar ideal para que las algas se fijen si la circulacion es baja.",
+      "category": "Problemas",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Las algas suelen aparecer antes en rincones con menos circulacion de agua. Si ves puntos verdes o resbaladizos, cepilla esa zona de inmediato y revisa el nivel de cloro libre. Tambien conviene comprobar que los retornos estan orientados para mover bien toda la lamina de agua. Cuando la piscina tiene rincones muertos, la suciedad se acumula y el tratamiento llega peor. Mantener las esquinas limpias, cepillar una vez por semana y revisar la filtracion evita que el problema avance. Si la piscina esta muy expuesta al sol o recibe mucho polvo, la vigilancia debe ser todavia mas constante."
+    },
+    {
+      "slug": "cuantas-horas-debe-filtrar-una-piscina-en-verano",
+      "title": "Cuantas horas debe filtrar una piscina en verano",
+      "excerpt": "No hay una cifra magica: depende de temperatura, uso y volumen de agua. Lo importante es adaptar la filtracion al dia a dia.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "En verano la filtracion suele necesitar mas horas que en primavera, sobre todo si hay calor y muchos banos. Reparte el tiempo en varios tramos para mejorar la circulacion y evitar que el agua se quede estancada. Si la piscina recibe mucho uso, sube horas de filtracion y comprueba si el agua recupera transparencia al dia siguiente. No conviene fijar un horario rigido para todo el verano, porque las necesidades cambian con la temperatura, la suciedad exterior y la carga de baño. Ajustar poco a poco es la forma mas comoda de mantener el agua estable y no gastar de mas."
+    },
+    {
+      "slug": "lavado-del-filtro-de-arena-cuando-hacerlo-y-como-no-perder-rendimiento",
+      "title": "Lavado del filtro de arena: cuando hacerlo y como no perder rendimiento",
+      "excerpt": "El filtro no se lava por costumbre, se lava por sintomas. La presion y el caudal mandan mas que el calendario.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Haz el lavado del filtro cuando notes subida clara de presion o perdida de caudal. Un lavado demasiado pronto desperdicia agua y no aporta mejora real. Si el lavado ya no limpia igual que antes, revisa el estado de la arena o del medio filtrante. En piscinas domesticas suele ser mejor observar el comportamiento del equipo que seguir una rutina fija sin mirar sintomas. Mantener el filtro en buen estado ayuda a que el agua se mantenga limpia con menos esfuerzo y reduce la sensacion de que siempre hay que corregirlo todo con quimica."
+    },
+    {
+      "slug": "filtro-de-cartucho-o-arena-cual-conviene-en-casa",
+      "title": "Filtro de cartucho o arena: cual conviene en casa",
+      "excerpt": "No existe una opcion perfecta para todos. La mejor eleccion depende del tiempo disponible, el consumo y la facilidad de limpieza.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "El filtro de cartucho suele ofrecer una filtracion fina y es una buena opcion si quieres controlar mejor la limpieza manual. El filtro de arena es robusto, conocido y muy habitual en piscinas familiares. Si valoras el ahorro de tiempo, la arena suele resultar mas comoda. Si prefieres un acabado de filtracion mas fino y aceptas limpiar mas a menudo, el cartucho puede encajar mejor. La decision correcta es la que se adapte a tu uso real y al tiempo que puedas dedicar cada semana, no la que suene mejor sobre el papel."
+    },
+    {
+      "slug": "seguridad-basica-en-piscina-para-ninos-y-mascotas",
+      "title": "Seguridad basica en piscina para ninos y mascotas",
+      "excerpt": "La seguridad funciona mejor cuando se repiten pocas reglas claras. Barrera, supervision y orden reducen muchos sustos.",
+      "category": "Seguridad",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Define siempre una norma de supervision cuando haya ninos o mascotas cerca del agua. Mantener la zona despejada, usar barreras fisicas y no dejar juguetes flotando al terminar ayuda mas de lo que parece. Una cubierta bien elegida tambien aporta una capa extra de seguridad y reduce suciedad. No hace falta complicarlo: pocas reglas claras, repetidas cada dia, suelen funcionar mejor que un monton de avisos que nadie recuerda. La seguridad de una piscina depende mucho de los habitos de la casa, no solo de la instalacion."
+    },
+    {
+      "slug": "invernaje-de-la-piscina-checklist-de-cierre-sin-sorpresas",
+      "title": "Invernaje de la piscina: checklist de cierre sin sorpresas",
+      "excerpt": "Cerrar bien la temporada evita reparaciones y hace mas facil la reapertura en primavera.",
+      "category": "Temporada",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Antes de cerrar la temporada, limpia a fondo el vaso, revisa equipos, ajusta parametros y protege los puntos mas sensibles. Coloca la cubierta de forma correcta y comprueba que no queda suciedad acumulada en cestas o prefiltros. Un invernaje ordenado no solo protege la piscina, tambien reduce el trabajo de puesta en marcha cuando llegue el buen tiempo. Si dejas todo preparado con calma, la siguiente temporada empieza con menos problemas y menos gasto de tiempo."
+    },
+    {
+      "slug": "tormentas-de-verano-que-hacer-para-recuperar-el-agua",
+      "title": "Tormentas de verano: que hacer para recuperar el agua",
+      "excerpt": "Lluvia, polvo y viento alteran el equilibrio. Conviene actuar en orden para no gastar producto de mas.",
+      "category": "Temporada",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Tras una tormenta, retira residuos visibles, revisa pH y comprueba el nivel de desinfectante. Despues limpia el filtro si ha subido la presion y deja que la depuracion haga su trabajo. No conviene sobredosificar por impulso, porque el problema muchas veces se resuelve mejor con orden y paciencia. Si la piscina recibe polvo, hojas o lluvia con frecuencia, este protocolo rapido evita que el agua pase de clara a turbia en muy poco tiempo."
+    },
+    {
+      "slug": "como-limpiar-la-linea-de-flotacion-sin-danar-el-revestimiento",
+      "title": "Como limpiar la linea de flotacion sin danar el revestimiento",
+      "excerpt": "La linea de flotacion necesita un metodo suave y constante. Frotar demasiado fuerte puede empeorar el acabado.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "La zona de la linea de flotacion acumula grasa, polvo y restos de productos solares. Lo mejor es usar un limpiador adecuado al tipo de revestimiento y pasar una esponja o cepillo suave. Si mantienes el pH controlado y la filtracion en orden, la suciedad tarda mucho mas en fijarse. Esta tarea es sencilla, pero muy importante para que la piscina se vea limpia de verdad y no solo aceptable desde lejos."
+    },
+    {
+      "slug": "como-reducir-el-consumo-de-agua-sin-perder-calidad",
+      "title": "Como reducir el consumo de agua sin perder calidad",
+      "excerpt": "Ahorra agua sin caer en atajos que empeoren el mantenimiento. La clave es controlar fugas, cubiertas y limpieza.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Reducir el consumo de agua empieza por vigilar fugas y por cubrir la piscina cuando no se use. Tambien ayuda limpiar cestas y filtros a tiempo, porque un sistema que trabaja forzado suele exigir mas correcciones. Si evitas rellenados innecesarios, mantienes mejor el equilibrio del agua y no pierdes calidad. La idea es usar solo el agua que de verdad hace falta y evitar desperdicios por falta de revision o por pequeños descuidos que se repiten cada semana."
+    },
+    {
+      "slug": "como-organizar-la-limpieza-de-piscina-por-dias",
+      "title": "Como organizar la limpieza de piscina por dias",
+      "excerpt": "Repartir tareas en la semana hace mas facil mantener todo al dia sin dedicar una tarde entera al mantenimiento.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Una buena organizacion evita que la piscina se acumule de trabajo. Puedes dejar un dia para medir y ajustar el agua, otro para limpieza superficial y otro para revisar filtracion y cestas. Este sistema funciona bien en piscinas familiares porque convierte el mantenimiento en una rutina corta y repetible. Si divides las tareas, reduces la sensacion de carga y tambien mejoras la constancia, que es lo que mas influye en el resultado final."
+    },
+    {
+      "slug": "como-detectar-aire-en-el-circuito-de-filtrado",
+      "title": "Como detectar aire en el circuito de filtrado",
+      "excerpt": "El aire en el circuito no siempre se ve a simple vista, pero si baja el rendimiento deja pistas muy claras.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Si la bomba pierde cebado, aparecen burbujas en los retornos o el caudal baja sin motivo claro, puede haber aire en el circuito. Revisa tapas, juntas y conexiones para localizar el punto de entrada. Este tipo de fallo resta eficiencia a la depuracion y puede hacer pensar que el problema es quimico cuando en realidad es mecanico. Detectarlo pronto evita mas gasto de tiempo y mas correcciones innecesarias."
+    },
+    {
+      "slug": "cuando-conviene-hacer-un-tratamiento-de-choque",
+      "title": "Cuando conviene hacer un tratamiento de choque",
+      "excerpt": "No hay que usar choque por costumbre. Solo tiene sentido cuando el agua lo pide por uso, suciedad o desequilibrio.",
+      "category": "Problemas",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Un tratamiento de choque conviene cuando el agua pierde claridad, aparecen olores raros o el nivel de desinfectante ya no responde como deberia. Antes de llegar ahi, revisa pH y filtracion, porque muchas veces el problema se corrige mejor con ajustes previos. Usar choque sin diagnostico solo gasta producto y puede dejar el agua desequilibrada. La mejor practica es reservarlo para los casos en que realmente hace falta y no convertirlo en una solucion automatica."
+    },
+    {
+      "slug": "como-elegir-una-cubierta-que-de-verdad-te-robe-menos-tiempo",
+      "title": "Como elegir una cubierta que de verdad te robe menos tiempo",
+      "excerpt": "La mejor cubierta no es solo la mas fuerte: es la que vas a usar cada dia sin pensar demasiado.",
+      "category": "Seguridad",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "A la hora de elegir una cubierta, piensa primero en su uso real. Si cuesta demasiado ponerla o quitarla, acabara usandose poco. Revisa el sistema de anclaje, la resistencia y la comodidad diaria. Una cubierta practica ayuda a reducir suciedad, evaporacion y riesgos alrededor de la piscina. Tambien conviene que encaje bien con el tipo de vaso y con el espacio disponible para guardarla cuando no se use. La mejor opcion es la que realmente te ayuda cada semana, no la que solo suena bien en catalogo."
+    },
+    {
+      "slug": "como-detectar-si-la-bomba-de-la-piscina-hace-mas-ruido-de-lo-normal",
+      "title": "Como detectar si la bomba de la piscina hace mas ruido de lo normal",
+      "excerpt": "El ruido raro suele avisar antes de una averia mayor. Conviene revisar bomba, aire y vibraciones cuanto antes.",
+      "category": "Filtracion",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Una bomba que empieza a sonar mas de lo normal puede estar avisando de aire en el circuito, holguras, vibraciones o desgaste interno. Escucha si el ruido cambia al arrancar o si aumenta cuando el caudal sube. Tambien revisa que la base este estable y que no haya obstrucciones en cestas o prefiltro. Si dejas pasar el aviso, el problema puede acabar afectando al rendimiento de toda la depuracion. Detectarlo pronto suele salir mucho mas barato que esperar a que la bomba falle del todo."
+    },
+    {
+      "slug": "reapertura-de-piscina-despues-del-invierno-en-7-pasos",
+      "title": "Reapertura de piscina despues del invierno en 7 pasos",
+      "excerpt": "Abrir bien la temporada evita semanas de correcciones. El orden de los pasos marca la diferencia.",
+      "category": "Temporada",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "Empieza retirando la cubierta y sacando restos visibles. Despues limpia el vaso, vacia cestas y revisa filtros y bombas. Mide pH y cloro antes de corregir nada. Si el agua esta fuera de rango, ajusta primero la quimica y despues la filtracion. Comprueba tambien juntas, tapas y posibles fugas. Una reapertura ordenada hace que la piscina entre en temporada con menos sobresaltos y menos consumo de producto."
+    },
+    {
+      "slug": "piscina-salina-que-mirar-para-que-la-sal-no-te-complique",
+      "title": "Piscina salina: que mirar para que la sal no te complique",
+      "excerpt": "La salinidad bien controlada ayuda, pero exige vigilar pH, clorador y estado del agua con regularidad.",
+      "category": "Mantenimiento",
+      "date": "3 junio 2026",
+      "author": "Redaccion",
+      "content": "En una piscina salina no basta con echar sal y olvidarse. Hay que revisar pH, produccion del clorador salino y estado general del agua. Si la salinidad baja o sube demasiado, el sistema trabaja peor y el mantenimiento se complica. Lo comodo es comprobar valores de forma periodica y actuar con cambios pequenos. Asi evitas corrosiones, agua descompensada y una sensacion constante de estar corrigiendo problemas que podian prevenirse antes."
+    },
+    {
+      "slug": "cuanto-cuesta-piscina-de-obra-presupuesto",
+      "title": "¿Cuánto cuesta una piscina de obra? Presupuesto real por tamaños y acabados",
+      "excerpt": "Los precios reales de una piscina de obra en España varían entre 15.000 y 60.000 euros según el tamaño, el acabado y la zona geográfica.",
+      "category": "Piscina de obra",
+      "date": "12 junio 2026",
+      "author": "Redaccion",
+      "content": "El coste de una piscina de obra en España depende de tres factores principales: el volumen de excavación, el tipo de vaso y el acabado elegido. Para una piscina estándar de 8x4 m con liner de PVC, el precio medio oscila entre 18.000 y 25.000 euros instalada. Con gresite cerámico el rango sube a 25.000-35.000 euros. Las piscinas con microcemento o revestimiento de piedra natural pueden llegar a 50.000-70.000 euros. A estos costes hay que añadir la depuradora completa (filtro, bomba, skimmer: 2.000-5.000 euros), la escalera inoxidable y los focos subacuáticos. El precio también varía por zona geográfica: en Madrid y Barcelona es entre un 20 y un 30% más caro que en zonas rurales de interior. El plazo de ejecución habitual es de 6 a 12 semanas desde el inicio de la excavación hasta el primer llenado."
+    },
+    {
+      "slug": "construir-piscina-obra-pasos-licencias-plazos",
+      "title": "Cómo construir una piscina de obra: licencias, materiales y plazos reales",
+      "excerpt": "Antes de excavar hay que tener la licencia aprobada, el proyecto técnico firmado y la empresa con experiencia. El proceso tiene más trámites de los que parecen.",
+      "category": "Piscina de obra",
+      "date": "11 junio 2026",
+      "author": "Redaccion",
+      "content": "Construir una piscina de obra requiere licencia municipal de obras en la mayoría de municipios españoles. El proceso habitual es: 1) Solicitud de licencia con proyecto técnico firmado por arquitecto o aparejador (puede tardar 4-12 semanas según el municipio). 2) Excavación y preparación del vaso. 3) Estructura de hormigón armado con impermeabilización. 4) Instalación de fontanería y depuración. 5) Acabado interior (liner, gresite, microcemento). 6) Prueba de estanqueidad antes del llenado. Los materiales más usados para el vaso son: bloque de hormigón con hormigón proyectado (más económico), hormigón armado convencional (más habitual) y piscinas prefabricadas de polipropileno colocadas en obra (más rápidas). Elige siempre empresa con referencias verificables y pide al menos tres presupuestos detallados antes de decidir."
+    },
+    {
+      "slug": "mantenimiento-piscina-obra-semana-mes-temporada",
+      "title": "Mantenimiento de piscina de obra: qué hacer cada semana, mes y temporada",
+      "excerpt": "Una piscina de obra bien mantenida dura décadas. El secreto está en la constancia semanal y en no saltarse el invernaje y la reapertura.",
+      "category": "Piscina de obra",
+      "date": "10 junio 2026",
+      "author": "Redaccion",
+      "content": "El mantenimiento de una piscina de obra se estructura en tres niveles de frecuencia. Tareas semanales: medir pH y cloro libre, vaciar cestas del skimmer y prefiltro, cepillar paredes y suelo, revisar presión del filtro. Tareas mensuales: lavado del filtro si la presión ha subido más de 0,5 bar, inspección del liner o gresite en busca de grietas, revisión de juntas de skimmer y sumidero. Tareas de temporada: invernaje en octubre (tratamiento antialgas, bajada de nivel de agua, cubierta) y reapertura en abril (limpieza a fondo, análisis completo del agua, revisión de bombas y filtro). El revestimiento de gresite dura 20-30 años con buen mantenimiento. El liner necesita sustitución cada 10-15 años. La bomba y el filtro tienen una vida útil de 10-15 años si se limpian regularmente."
+    },
+    {
+      "slug": "piscinas-fibra-vidrio-ventajas-inconvenientes-modelos",
+      "title": "Piscinas de fibra de vidrio: ventajas, inconvenientes y qué modelos existen en España",
+      "excerpt": "La fibra de vidrio ofrece instalación rápida y bajo mantenimiento, pero el catálogo de formas es limitado y el transporte puede ser un problema en zonas con acceso difícil.",
+      "category": "Piscina de fibra",
+      "date": "9 junio 2026",
+      "author": "Redaccion",
+      "content": "Las piscinas de fibra de vidrio son vasos prefabricados que se fabrican en taller y se instalan en un día. Sus principales ventajas son: superficie lisa no porosa que dificulta el crecimiento de algas, menor consumo de cloro que el hormigón, instalación en 1-3 días y ausencia de liner que sustituir. Los inconvenientes principales son: tamaño y forma limitados al catálogo del fabricante (no se personalizan), necesidad de acceso para camión con grúa y el gel coat superficial puede amarillear con el tiempo en climas muy soleados. En España los modelos más vendidos tienen entre 7x3,5 m y 10x4,5 m con profundidades de 1,4 a 1,8 m. El precio de instalación completa (piscina + excavación + depuración básica) oscila entre 15.000 y 30.000 euros según el tamaño. Los principales fabricantes nacionales son Magiline, Compass y Aqua+."
+    },
+    {
+      "slug": "instalacion-piscina-fibra-vidrio-proceso-tiempos",
+      "title": "Instalación de piscina de fibra de vidrio: proceso completo y tiempos reales",
+      "excerpt": "Desde la excavación hasta el primer baño pueden pasar solo 2 semanas. Esto es lo que ocurre paso a paso y qué puede retrasar el plazo.",
+      "category": "Piscina de fibra",
+      "date": "8 junio 2026",
+      "author": "Redaccion",
+      "content": "La instalación de una piscina de fibra de vidrio es significativamente más rápida que la de obra. El proceso estándar es: Día 1: Excavación y nivelado del fondo con cama de arena. Día 2: Llegada de la piscina en camión y colocación con grúa en la excavación. El vaso se asienta sobre la cama de arena y se nivela. Días 3-5: Instalación de fontanería, depuradora, conexiones eléctricas y relleno de grava perimetral. Semana 2: Primer llenado, prueba de estanqueidad, ajuste de pH y primer tratamiento del agua. Lo que puede retrasar: acceso difícil para camión de gran tonelaje, terreno con roca que dificulta la excavación o licencia municipal que aún no ha llegado. El tiempo mínimo desde firma del contrato hasta primer baño suele ser de 4-6 semanas, incluyendo la tramitación de licencia."
+    },
+    {
+      "slug": "piscina-fibra-vs-obra-comparativa-mantenimiento",
+      "title": "Fibra de vidrio vs. obra: comparativa real de coste, mantenimiento y durabilidad",
+      "excerpt": "La fibra gana en instalación y mantenimiento diario, la obra gana en personalización y durabilidad a muy largo plazo. La elección depende de tu presupuesto y tu terreno.",
+      "category": "Piscina de fibra",
+      "date": "7 junio 2026",
+      "author": "Redaccion",
+      "content": "Coste inicial: la fibra de vidrio es entre un 20 y un 40% más barata que la obra en el mismo tamaño. Instalación: la fibra tarda 1-2 semanas, la obra entre 6 y 12 semanas. Mantenimiento: la fibra consume menos cloro y algicida gracias a su superficie no porosa; el gresite de obra es más duradero pero más poroso. Personalización: la obra permite cualquier forma, tamaño y profundidad; la fibra está limitada al catálogo. Durabilidad: una piscina de obra bien construida puede durar 50 años o más; la fibra de vidrio tiene una vida útil estimada de 25-30 años antes de que el gel coat necesite renovación. Reparaciones: en la fibra, una grieta puntual se repara con resina de vidrio fácilmente; en el gresite, una zona dañada puede requerir cambiar piezas difíciles de encontrar si el modelo está descatalogado. Para parcelas con buen acceso y presupuesto ajustado, la fibra de vidrio es la opción más racional."
+    },
+    {
+      "slug": "mejores-piscinas-desmontables-guia-compra-2026",
+      "title": "Las mejores piscinas desmontables para jardín: guía de compra 2026",
+      "excerpt": "Intex, Bestway y Steel Pro: qué diferencia hay entre una piscina de 300 euros y una de 1.500 euros, y cuál merece la pena para tu jardín.",
+      "category": "Piscina desmontable",
+      "date": "6 junio 2026",
+      "author": "Redaccion",
+      "content": "Las piscinas desmontables se dividen en tres categorías según la estructura. Las piscinas hinchables (50-300 euros) no tienen estructura metálica: la propia presión del agua mantiene las paredes. Son las más fáciles de montar pero las menos resistentes. Las piscinas de marco de acero (150-600 euros) tienen tubos de acero que sujetan el liner. Son más estables y duran más si se guardan correctamente. Las piscinas de acero estructural o PVC rígido (500-2.500 euros) se acercan en resistencia a las piscinas semipermanentes. Para un uso de 2-4 meses al año en familia, una piscina de marco de acero de 4x2,5 m con depuradora incluida (250-500 euros) es la opción con mejor relación calidad-precio. Los aspectos más importantes a comparar son: espesor del liner (0,3 mm en económicas vs 0,6 mm en gama alta), potencia de la depuradora incluida y facilidad de montaje/desmontaje."
+    },
+    {
+      "slug": "montar-desmontar-piscina-desmontable-sin-danos",
+      "title": "Cómo montar y desmontar una piscina desmontable sin dañarla",
+      "excerpt": "El montaje correcto evita fugas y deformaciones. El desmontaje y guardado correctos multiplican la vida útil por dos o tres.",
+      "category": "Piscina desmontable",
+      "date": "5 junio 2026",
+      "author": "Redaccion",
+      "content": "El error más común al montar una piscina desmontable es no nivelar bien el suelo. Una diferencia de 2-3 cm de un lado al otro parece pequeña pero provoca presión desigual sobre las paredes y puede deformar la estructura en pocas semanas. Antes de montar, retira piedras y raíces, nivela con arena o tierra compactada y coloca una lona de protección entre el suelo y el liner. Durante el montaje, no tenses la estructura antes de empezar a llenar de agua. Al desmontar, vacía toda el agua antes de desmontar la estructura, lava el liner con agua limpia y deja que seque completamente antes de doblarlo. Guarda el liner en un lugar seco y sin luz directa del sol. No uses lejía sobre el liner: degrada el material. Una piscina desmontable bien montada y guardada correctamente puede durar 5-10 temporadas."
+    },
+    {
+      "slug": "mantenimiento-agua-piscina-desmontable-cloro-ph",
+      "title": "Mantenimiento del agua en piscinas desmontables: cloro, pH y limpieza sin complicaciones",
+      "excerpt": "En piscinas pequeñas el agua se desestabiliza más rápido que en piscinas grandes. El control semanal es más importante, no menos.",
+      "category": "Piscina desmontable",
+      "date": "4 junio 2026",
+      "author": "Redaccion",
+      "content": "Las piscinas desmontables tienen menos volumen de agua y reciben más sol directo que las piscinas enterradas, lo que hace que el cloro se consuma antes y el pH cambie más rápido. El control básico debe hacerse dos veces por semana en verano: mide pH (rango ideal 7,2-7,6) y cloro libre (rango ideal 1-3 ppm). Usa pastillas de cloro de disolución lenta en un dosificador flotante para mantener niveles estables. Limpia el cartucho del filtro cada 5-7 días: en piscinas pequeñas, el filtro se satura muy rápido. Vacía y limpia la piscina completamente cada 2-3 semanas si no tienes depuradora o si la ves muy turbia. El cambio total del agua es más económico en términos de tiempo y productos que intentar recuperar agua muy deteriorada en volúmenes pequeños."
+    },
+    {
+      "slug": "como-mantener-agua-cristalina-piscina",
+      "title": "Cómo mantener el agua cristalina durante toda la temporada sin gastar de más",
+      "excerpt": "El agua cristalina no es solo cuestión de cloro: es el resultado de mantener pH, filtración y limpieza mecánica en equilibrio al mismo tiempo.",
+      "category": "Mantenimiento",
+      "date": "13 junio 2026",
+      "author": "Redaccion",
+      "content": "El agua cristalina de piscina depende de tres factores que deben mantenerse en equilibrio: química correcta, filtración suficiente y limpieza mecánica regular. El pH es la base de todo: si está por encima de 7,8 el cloro pierde hasta un 80% de su eficacia y el agua empieza a volverse turbia aunque el dosificador marque cloro alto. El tiempo de filtración en verano debe ser al menos de 8-10 horas diarias para piscinas familiares de 30-50 m³. La limpieza mecánica (cepillo de paredes, aspirador de fondo, vaciar cestas) es tan importante como la química: sin ella, la materia orgánica se acumula y consume el cloro disponible. Si el agua ya está turbia, actúa en este orden: ajusta pH primero, aplica floculante, filtra en modo bypass 24 horas y luego limpia el fondo al vacío."
+    },
+    {
+      "slug": "mejor-limpiafondos-automatico-piscina",
+      "title": "Mejor limpiafondos automático en 2026: comparativa honesta de robots y modelos de presión",
+      "excerpt": "Robots eléctricos, limpiafondos de presión y de aspiración: qué diferencia hay en la práctica y qué modelo encaja en cada tipo de piscina.",
+      "category": "Mantenimiento",
+      "date": "13 junio 2026",
+      "author": "Redaccion",
+      "content": "Existen tres tecnologías de limpiafondos automático con características muy diferentes. Los limpiafondos de aspiración (80-200 euros) se conectan al skimmer y usan la propia bomba de la piscina: son económicos pero consumen potencia de la depuradora y limpian solo el fondo. Los limpiafondos de presión (200-600 euros) se conectan a la impulsión de la bomba: más eficaces en piscinas con mucha suciedad de jardín (hojas, arena). Los robots eléctricos autónomos (400-2.500 euros) funcionan de forma completamente independiente, limpian fondo y paredes, y tienen filtrado propio. Para una piscina familiar de uso intensivo con jardín alrededor, un robot eléctrico de gama media (400-700 euros) ahorra más tiempo del que cuesta en dos o tres temporadas. Para piscinas con poco uso o con pocos residuos, un limpiafondos de aspiración es suficiente. El mantenimiento del robot consiste en limpiar los filtros internos tras cada ciclo."
+    },
+    {
+      "slug": "control-ph-piscina-guia-completa",
+      "title": "Control del pH en piscinas: todo lo que debes saber para proteger el agua, la piel y el equipo",
+      "excerpt": "El pH es el parámetro más importante del agua de piscina y el que más se ignora. Mantenerlo en rango correcto ahorra dinero, tiempo y problemas.",
+      "category": "Mantenimiento",
+      "date": "13 junio 2026",
+      "author": "Redaccion",
+      "content": "El pH del agua de piscina debe mantenerse entre 7,2 y 7,6. Por debajo de 7,2, el agua se vuelve ácida: corroe el metal de equipos, irrita los ojos y la piel y puede dañar el liner o el gresite. Por encima de 7,8, el cloro pierde eficacia, el agua puede volverse turbia y se forman depósitos calcáreos en paredes y equipos. Los productos para bajar el pH son: ácido clorhídrico (muriático) diluido o bisulfato sódico en polvo. Para subir el pH: carbonato sódico (sosa). Las causas más frecuentes de pH alto son: agua de red con carbonatos elevados, uso de hipoclorito sódico líquido (que es muy alcalino) y lluvia con pH neutro que diluye. Las causas de pH bajo: agua de lluvia ácida, exceso de ácido corrector y uso de cloro en polvo sin calcular. Mide siempre pH antes de añadir cualquier otro producto."
+    },
+    {
+      "slug": "eliminar-algas-verdes-piscina-48-horas",
+      "title": "Cómo eliminar algas verdes de tu piscina en 48 horas sin vaciar el agua",
+      "excerpt": "El protocolo correcto para recuperar una piscina verde en menos de dos días: orden de productos, tiempos de espera y qué hacer con el filtro.",
+      "category": "Problemas",
+      "date": "13 junio 2026",
+      "author": "Redaccion",
+      "content": "Recuperar una piscina con algas verdes en 48 horas es posible si sigues el protocolo correcto. Paso 1: Ajusta el pH a 7,2 (el límite bajo del rango correcto) para maximizar la eficacia del cloro. Paso 2: Aplica un choque de cloro granulado (200 g por cada 10 m³ de agua) con la bomba en marcha. Paso 3: Añade algicida de choque concentrado según las instrucciones del fabricante. Paso 4: Deja filtrar 24 horas seguidas sin interrupción. Paso 5: Cepilla todas las paredes y el fondo para desprender las algas adheridas. Paso 6: Aplica floculante líquido y deja sedimentar 4-6 horas con la bomba parada. Paso 7: Aspira el fondo al vacío en modo bypass (enviando el agua sucia a desagüe, no al filtro). Paso 8: Lava el filtro a contracorriente. Si el agua era muy verde, puede que necesites repetir el choque una segunda vez antes del floculante."
+    },
+    {
+      "slug": "apertura-piscina-temporada-guia",
+      "title": "Apertura de piscina: la guía completa para arrancar la temporada sin problemas",
+      "excerpt": "El orden correcto de las tareas de apertura marca la diferencia entre bañarse la primera semana o pasar un mes corrigiendo el agua.",
+      "category": "Temporada",
+      "date": "13 junio 2026",
+      "author": "Redaccion",
+      "content": "La apertura de temporada debe seguir un orden específico para evitar gastar tiempo y productos en correcciones innecesarias. Semana 1: Retira la cubierta de invernaje y limpia el vaso de residuos sólidos. Revisa visualmente el revestimiento en busca de grietas o daños. Inspecciona bomba, filtro y skimmers. Semana 1: Conecta la depuradora, comprueba que no hay fugas y deja filtrar 24 horas para homogeneizar el agua. Semana 1-2: Analiza el agua completa (pH, cloro, alcalinidad, dureza, estabilizador). Corrige primero la alcalinidad, luego el pH y finalmente el cloro. Semana 2: Una vez el agua está equilibrada, aplica tratamiento antioscurecimiento y ajusta los nozzles de retorno para optimizar la circulación. Si el agua lleva meses parada sin tratamiento y está muy turbia o verde, aplica el protocolo de eliminación de algas antes de seguir con los pasos de equilibrado."
+    }
+  ],
+  "news": [
+    {
+      "slug": "mas-familias-adoptan-rutinas-cortas-de-control-del-agua",
+      "title": "Mas familias adoptan rutinas cortas de control del agua",
+      "summary": "Las mediciones rapidas y frecuentes ganan terreno frente a revisiones largas y poco constantes.",
+      "tag": "Mantenimiento",
+      "date": "3 junio 2026",
+      "content": "La tendencia apunta a controles breves varias veces por semana, con ajustes pequenos y sin esperar a que el agua se descontrole."
+    },
+    {
+      "slug": "sube-el-interes-por-bombas-eficientes-y-programacion-inteligente",
+      "title": "Sube el interes por bombas eficientes y programacion inteligente",
+      "summary": "La eficiencia energetica se ha convertido en uno de los criterios mas valorados al renovar la depuracion.",
+      "tag": "Filtracion",
+      "date": "3 junio 2026",
+      "content": "Cada vez mas usuarios comparan consumos, tramos horarios y velocidad variable antes de cambiar la bomba o ajustar su rutina."
+    },
+    {
+      "slug": "las-cubiertas-ganan-peso-como-apoyo-en-seguridad-y-ahorro",
+      "title": "Las cubiertas ganan peso como apoyo en seguridad y ahorro",
+      "summary": "La proteccion fisica y la reduccion de evaporacion hacen que muchas familias se planteen cubrir mejor la piscina.",
+      "tag": "Seguridad",
+      "date": "3 junio 2026",
+      "content": "Una cubierta util no solo protege, tambien ayuda a mantener mas estable el agua y a reducir trabajo semanal."
+    },
+    {
+      "slug": "el-calor-adelanta-la-puesta-a-punto-en-muchas-piscinas",
+      "title": "El calor adelanta la puesta a punto en muchas piscinas",
+      "summary": "La temporada alta se extiende y obliga a preparar la piscina antes de lo habitual.",
+      "tag": "Temporada",
+      "date": "3 junio 2026",
+      "content": "Muchos propietarios empiezan a revisar equipos y parametros semanas antes para evitar arrancar con agua desequilibrada."
+    },
+    {
+      "slug": "crecen-las-consultas-sobre-agua-turbia-tras-fines-de-semana-intensos",
+      "title": "Crecen las consultas sobre agua turbia tras fines de semana intensos",
+      "summary": "La combinacion de uso alto y filtracion corta sigue siendo una causa habitual de perdida de claridad.",
+      "tag": "Problemas",
+      "date": "3 junio 2026",
+      "content": "El patron se repite: mas bañistas, mas carga organica y menos margen para la filtracion si no se ajusta a tiempo."
+    },
+    {
+      "slug": "los-kits-digitales-ganan-presencia-frente-a-las-tiras-basicas",
+      "title": "Los kits digitales ganan presencia frente a las tiras basicas",
+      "summary": "La lectura mas clara de los valores ayuda a tomar decisiones de mantenimiento con menos errores.",
+      "tag": "Mantenimiento",
+      "date": "3 junio 2026",
+      "content": "Medir mejor evita correcciones innecesarias y reduce el tiempo que se tarda en dejar el agua en rango."
+    },
+    {
+      "slug": "sube-el-interes-por-checklists-de-verano-mas-simples",
+      "title": "Sube el interes por checklists de verano mas simples",
+      "summary": "Los formatos cortos y faciles de seguir ganan peso porque reducen olvidos y mejoran la constancia.",
+      "tag": "Temporada",
+      "date": "3 junio 2026",
+      "content": "Muchos usuarios prefieren listas breves con pocas tareas clave en lugar de planes largos que luego nadie sigue."
+    },
+    {
+      "slug": "crece-la-atencion-por-el-ahorro-energetico-en-piscinas",
+      "title": "Crece la atencion por el ahorro energetico en piscinas",
+      "summary": "La factura electrica empuja a revisar programas de filtracion y equipos mas eficientes.",
+      "tag": "Filtracion",
+      "date": "3 junio 2026",
+      "content": "Cada vez mas propietarios comparan horarios, potencia y velocidad variable para gastar menos sin perder calidad de agua."
+    },
+    {
+      "slug": "suben-las-consultas-sobre-reapertura-tras-el-invierno",
+      "title": "Suben las consultas sobre reapertura tras el invierno",
+      "summary": "La vuelta a la temporada obliga a poner orden en limpieza, quimica y equipo antes del primer baño.",
+      "tag": "Temporada",
+      "date": "3 junio 2026",
+      "content": "Cada vez mas hogares buscan listas cortas para abrir la piscina con menos errores y menos gasto de tiempo."
+    },
+    {
+      "slug": "mas-interes-por-revisar-ruidos-y-vibraciones-en-la-bomba",
+      "title": "Mas interes por revisar ruidos y vibraciones en la bomba",
+      "summary": "Las primeras señales mecanicas se observan antes de que el fallo afecte a la depuracion completa.",
+      "tag": "Filtracion",
+      "date": "3 junio 2026",
+      "content": "Detectar un ruido raro a tiempo permite actuar sobre aire, juntas o desgaste antes de que la bomba pierda rendimiento."
+    }
+  ]
+}

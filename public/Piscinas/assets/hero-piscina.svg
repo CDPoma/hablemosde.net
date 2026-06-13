@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520" role="img" aria-label="Guía completa de mantenimiento de piscinas — agua cristalina toda la temporada">
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e0f7ff"/>
+      <stop offset="1" stop-color="#cce8fa"/>
+    </linearGradient>
+    <linearGradient id="heroSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bae6fd"/>
+      <stop offset="1" stop-color="#e0f7ff"/>
+    </linearGradient>
+    <linearGradient id="heroWater" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#0369a1" stop-opacity="0.97"/>
+    </linearGradient>
+    <linearGradient id="heroDeck" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0e8d0"/>
+      <stop offset="1" stop-color="#e0d4b8"/>
+    </linearGradient>
+    <radialGradient id="sunHero" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fef08a" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#fde047" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="causticA" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7de8ff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="heroSoft"><feGaussianBlur stdDeviation="12"/></filter>
+    <filter id="heroBlur4"><feGaussianBlur stdDeviation="4"/></filter>
+    <filter id="heroBlur2"><feGaussianBlur stdDeviation="2"/></filter>
+    <filter id="heroGlow">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="heroClip">
+      <rect x="0" y="0" width="920" height="520" rx="32"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="920" height="520" rx="32" fill="url(#heroBg)"/>
+
+  <g clip-path="url(#heroClip)">
+
+    <!-- Sky section (top) -->
+    <rect x="0" y="0" width="920" height="160" fill="url(#heroSky)"/>
+
+    <!-- Sun glow -->
+    <circle cx="820" cy="60" r="100" fill="url(#sunHero)" filter="url(#heroSoft)"/>
+    <circle cx="820" cy="60" r="50" fill="#fef08a" opacity="0.85"/>
+    <circle cx="820" cy="60" r="32" fill="#fde047"/>
+    <!-- Sun rays -->
+    <g stroke="#fde047" stroke-width="2.5" stroke-linecap="round" opacity="0.7">
+      <line x1="820" y1="10" x2="820" y2="-2"/>
+      <line x1="820" y1="110" x2="820" y2="122"/>
+      <line x1="770" y1="60" x2="758" y2="60"/>
+      <line x1="870" y1="60" x2="882" y2="60"/>
+      <line x1="785" y1="25" x2="776" y2="16"/>
+      <line x1="855" y1="95" x2="864" y2="104"/>
+      <line x1="855" y1="25" x2="864" y2="16"/>
+      <line x1="785" y1="95" x2="776" y2="104"/>
+    </g>
+
+    <!-- Soft ambient clouds -->
+    <ellipse cx="120" cy="55" rx="90" ry="28" fill="#ffffff" opacity="0.55"/>
+    <ellipse cx="180" cy="45" rx="65" ry="22" fill="#ffffff" opacity="0.45"/>
+    <ellipse cx="380" cy="40" rx="75" ry="20" fill="#ffffff" opacity="0.4"/>
+    <ellipse cx="430" cy="30" rx="55" ry="17" fill="#ffffff" opacity="0.35"/>
+
+    <!-- Deck / coping around pool -->
+    <rect x="0" y="160" width="920" height="360" fill="url(#heroDeck)"/>
+    <!-- Deck tile grid subtle lines -->
+    <g stroke="#d4c9a8" stroke-width="0.8" opacity="0.5">
+      <line x1="0" y1="180" x2="920" y2="180"/>
+      <line x1="0" y1="210" x2="920" y2="210"/>
+      <line x1="0" y1="240" x2="920" y2="240"/>
+      <line x1="0" y1="480" x2="920" y2="480"/>
+      <line x1="0" y1="500" x2="920" y2="500"/>
+    </g>
+
+    <!-- POOL: outer border/coping -->
+    <rect x="60" y="175" width="800" height="310" rx="24" fill="#e0d4b8" stroke="#c8bba0" stroke-width="3"/>
+    <!-- Pool inner (water) -->
+    <rect x="82" y="195" width="756" height="270" rx="18" fill="url(#heroWater)"/>
+
+    <!-- Caustic light on water -->
+    <ellipse cx="200" cy="290" rx="70" ry="35" fill="url(#causticA)" filter="url(#heroBlur4)"/>
+    <ellipse cx="450" cy="370" rx="90" ry="30" fill="url(#causticA)" filter="url(#heroBlur4)"/>
+    <ellipse cx="700" cy="280" rx="65" ry="40" fill="url(#causticA)" filter="url(#heroBlur4)"/>
+    <ellipse cx="580" cy="430" rx="55" ry="20" fill="#b3e8ff" opacity="0.18" filter="url(#heroBlur2)"/>
+    <ellipse cx="300" cy="440" rx="50" ry="18" fill="#b3e8ff" opacity="0.15" filter="url(#heroBlur2)"/>
+
+    <!-- Water ripple lines -->
+    <path d="M100 250 Q 220 235, 340 250 Q 460 265, 580 250 Q 700 235, 820 250" fill="none" stroke="#7de8ff" stroke-width="3" stroke-opacity="0.5"/>
+    <path d="M100 310 Q 250 295, 460 310 Q 670 325, 820 310" fill="none" stroke="#7de8ff" stroke-width="2.5" stroke-opacity="0.38"/>
+    <path d="M100 370 Q 280 355, 460 370 Q 640 385, 820 370" fill="none" stroke="#7de8ff" stroke-width="2" stroke-opacity="0.3"/>
+    <path d="M100 425 Q 300 410, 460 425 Q 620 440, 820 425" fill="none" stroke="#7de8ff" stroke-width="2" stroke-opacity="0.25"/>
+
+    <!-- Lane dividers -->
+    <line x1="82" y1="335" x2="838" y2="335" stroke="#ff9f43" stroke-width="4" stroke-dasharray="18,10" stroke-linecap="round" opacity="0.6"/>
+    <!-- Buoys -->
+    <g opacity="0.8">
+      <circle cx="160" cy="335" r="9" fill="#ff9f43"/>
+      <circle cx="240" cy="335" r="9" fill="#ef4444"/>
+      <circle cx="320" cy="335" r="9" fill="#ff9f43"/>
+      <circle cx="400" cy="335" r="9" fill="#ef4444"/>
+      <circle cx="480" cy="335" r="9" fill="#ff9f43"/>
+      <circle cx="560" cy="335" r="9" fill="#ef4444"/>
+      <circle cx="640" cy="335" r="9" fill="#ff9f43"/>
+      <circle cx="720" cy="335" r="9" fill="#ef4444"/>
+      <circle cx="800" cy="335" r="9" fill="#ff9f43"/>
+    </g>
+
+    <!-- === POOL FLOAT / INFLATABLE === -->
+    <ellipse cx="680" cy="265" rx="75" ry="38" fill="none" stroke="#ec4899" stroke-width="25" opacity="0.88"/>
+    <ellipse cx="680" cy="265" rx="75" ry="38" fill="none" stroke="#ffffff" stroke-width="8" stroke-dasharray="22,22" opacity="0.5"/>
+    <!-- Float inner shadow -->
+    <ellipse cx="680" cy="265" rx="50" ry="25" fill="#0ea5e9" opacity="0.5"/>
+
+    <!-- === POOL ROBOT === -->
+    <g transform="translate(120, 380)">
+      <!-- Robot body -->
+      <ellipse cx="90" cy="55" rx="80" ry="45" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+      <ellipse cx="90" cy="42" rx="60" ry="30" fill="#0f172a" stroke="#1e40af" stroke-width="1.5"/>
+      <!-- LED status light -->
+      <circle cx="90" cy="40" r="8" fill="#22d3ee" filter="url(#heroGlow)" opacity="0.9"/>
+      <!-- Robot tracks -->
+      <rect x="5"  y="65" width="22" height="40" rx="6" fill="#334155"/>
+      <rect x="153" y="65" width="22" height="40" rx="6" fill="#334155"/>
+      <!-- Brand text -->
+      <text x="90" y="44" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#7dd3fc" text-anchor="middle" font-weight="700">ROBOT</text>
+    </g>
+
+    <!-- === LADDER === -->
+    <rect x="86" y="192" width="8" height="100" rx="4" fill="#94a3b8" opacity="0.9"/>
+    <rect x="104" y="192" width="8" height="100" rx="4" fill="#94a3b8" opacity="0.9"/>
+    <rect x="83" y="215" width="32" height="6" rx="3" fill="#64748b"/>
+    <rect x="83" y="240" width="32" height="6" rx="3" fill="#64748b"/>
+    <rect x="83" y="265" width="32" height="6" rx="3" fill="#64748b"/>
+
+    <!-- === POOL TEST KIT === -->
+    <g transform="translate(720, 195)">
+      <rect x="0" y="0" width="100" height="65" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5" opacity="0.92"/>
+      <!-- pH scale mini -->
+      <defs>
+        <linearGradient id="miniPh" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%"   stop-color="#ef4444"/>
+          <stop offset="50%"  stop-color="#22c55e"/>
+          <stop offset="100%" stop-color="#3b82f6"/>
+        </linearGradient>
+      </defs>
+      <rect x="10" y="12" width="80" height="14" rx="4" fill="url(#miniPh)" opacity="0.85"/>
+      <rect x="48" y="9" width="2" height="22" fill="#16a34a" opacity="0.9"/>
+      <text x="50" y="44" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#1e3a5f" text-anchor="middle">pH 7.4</text>
+      <text x="50" y="58" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#16a34a" text-anchor="middle">✓ CORRECTO</text>
+    </g>
+
+    <!-- ═══════════════════════════
+         TEXT OVERLAY — info panel
+    ═══════════════════════════ -->
+    <!-- Panel backing -->
+    <rect x="68" y="460" width="784" height="0" rx="12"/>
+
+    <!-- === TITLE TEXT (top-left, over sky) === -->
+    <text x="88" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#0c4a6e" letter-spacing="-0.5">Hablemos de Piscinas</text>
+    <text x="88" y="126" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#0369a1" opacity="0.85">Mantenimiento · Química · Robots · Guías de compra</text>
+    <!-- Decorative line -->
+    <rect x="88" y="136" width="280" height="3" rx="2" fill="#0ea5e9" opacity="0.6"/>
+
+    <!-- === STAT BADGES at bottom === -->
+    <!-- Badge 1 -->
+    <rect x="90" y="470" width="140" height="36" rx="18" fill="#0c4a6e" opacity="0.88"/>
+    <text x="160" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#bae6fd" text-anchor="middle">pH ideal: 7.2–7.6</text>
+    <!-- Badge 2 -->
+    <rect x="245" y="470" width="160" height="36" rx="18" fill="#0f766e" opacity="0.88"/>
+    <text x="325" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ccfbf1" text-anchor="middle">Filtrar 8–12 h / día</text>
+    <!-- Badge 3 -->
+    <rect x="420" y="470" width="170" height="36" rx="18" fill="#1d4ed8" opacity="0.85"/>
+    <text x="505" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#bfdbfe" text-anchor="middle">Cloro: 0.5–1.5 mg/L</text>
+    <!-- Badge 4 -->
+    <rect x="605" y="470" width="155" height="36" rx="18" fill="#7c3aed" opacity="0.85"/>
+    <text x="682" y="493" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#ede9fe" text-anchor="middle">Temporada 2026</text>
+
+  </g>
+</svg>

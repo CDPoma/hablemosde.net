@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 420" role="img" aria-label="Gosvor LiteVac G1 robot limpiafondos premium con app para piscinas hasta 200 m²">
+  <defs>
+    <linearGradient id="premBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e3a5f"/>
+    </linearGradient>
+    <linearGradient id="proBodyGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e3a5f"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="proAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="phoneGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="screenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c4a6e"/>
+      <stop offset="1" stop-color="#075985"/>
+    </linearGradient>
+    <filter id="glowBlue">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Dark premium background -->
+  <rect width="500" height="420" fill="url(#premBg)"/>
+  <!-- Subtle grid lines on background -->
+  <g stroke="#ffffff" stroke-width="0.5" opacity="0.04">
+    <line x1="0" y1="60"  x2="500" y2="60"/>
+    <line x1="0" y1="120" x2="500" y2="120"/>
+    <line x1="0" y1="180" x2="500" y2="180"/>
+    <line x1="0" y1="240" x2="500" y2="240"/>
+    <line x1="0" y1="300" x2="500" y2="300"/>
+    <line x1="0" y1="360" x2="500" y2="360"/>
+    <line x1="60"  y1="0" x2="60"  y2="420"/>
+    <line x1="120" y1="0" x2="120" y2="420"/>
+    <line x1="180" y1="0" x2="180" y2="420"/>
+    <line x1="240" y1="0" x2="240" y2="420"/>
+    <line x1="300" y1="0" x2="300" y2="420"/>
+    <line x1="360" y1="0" x2="360" y2="420"/>
+    <line x1="420" y1="0" x2="420" y2="420"/>
+  </g>
+  <!-- Blue accent glow (background) -->
+  <ellipse cx="190" cy="250" rx="160" ry="100" fill="#38bdf8" opacity="0.05" filter="url(#glowBlue)"/>
+
+  <!-- Floor reflection -->
+  <ellipse cx="190" cy="350" rx="130" ry="18" fill="#38bdf8" opacity="0.12"/>
+  <rect x="60" y="345" width="260" height="6" rx="3" fill="#38bdf8" opacity="0.08"/>
+
+  <!-- === PREMIUM ROBOT BODY === -->
+  <g transform="translate(40, 120)">
+    <!-- Main sleek body -->
+    <ellipse cx="150" cy="160" rx="130" ry="85" fill="url(#proBodyGrad)" stroke="#38bdf8" stroke-width="1.5"/>
+    <!-- Top dome -->
+    <ellipse cx="150" cy="130" rx="100" ry="45" fill="#0f1a2e" stroke="#1e40af" stroke-width="1.5"/>
+    <ellipse cx="150" cy="118" rx="80" ry="33" fill="#0c1525"/>
+
+    <!-- Brand logo area -->
+    <text x="150" y="114" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#38bdf8" text-anchor="middle" letter-spacing="2">GOSVOR</text>
+    <text x="150" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#818cf8" text-anchor="middle" letter-spacing="1">LiteVac G1</text>
+
+    <!-- Accent stripe (gradient line) -->
+    <rect x="30" y="148" width="240" height="4" rx="2" fill="url(#proAccent)" opacity="0.8"/>
+
+    <!-- Multi-LED status bar -->
+    <g opacity="0.9">
+      <circle cx="120" cy="160" r="5" fill="#38bdf8" filter="url(#glowBlue)"/>
+      <circle cx="140" cy="160" r="5" fill="#38bdf8" opacity="0.6"/>
+      <circle cx="160" cy="160" r="5" fill="#4ade80" filter="url(#glowBlue)"/>
+      <circle cx="180" cy="160" r="5" fill="#4ade80" opacity="0.6"/>
+    </g>
+
+    <!-- Sensor eyes (premium) -->
+    <circle cx="100" cy="180" r="16" fill="#0c1525" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="100" cy="180" r="9" fill="#1d4ed8"/>
+    <circle cx="100" cy="180" r="4" fill="#60a5fa"/>
+    <circle cx="96"  cy="176" r="2" fill="#bae6fd" opacity="0.9"/>
+    <circle cx="200" cy="180" r="16" fill="#0c1525" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="200" cy="180" r="9" fill="#1d4ed8"/>
+    <circle cx="200" cy="180" r="4" fill="#60a5fa"/>
+    <circle cx="196" cy="176" r="2" fill="#bae6fd" opacity="0.9"/>
+
+    <!-- Gyroscope/nav indicator (center badge) -->
+    <circle cx="150" cy="182" r="14" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>
+    <text x="150" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="7" fill="#38bdf8" text-anchor="middle">NAV</text>
+    <text x="150" y="188" font-family="Segoe UI, Arial, sans-serif" font-size="7" fill="#818cf8" text-anchor="middle">AI</text>
+
+    <!-- Side tracks (premium, wide) -->
+    <rect x="0" y="170" width="32" height="70" rx="10" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <g fill="#0f172a">
+      <rect x="3"  y="177" width="26" height="9" rx="3"/>
+      <rect x="3"  y="189" width="26" height="9" rx="3"/>
+      <rect x="3"  y="201" width="26" height="9" rx="3"/>
+      <rect x="3"  y="213" width="26" height="9" rx="3"/>
+      <rect x="3"  y="225" width="26" height="9" rx="3"/>
+    </g>
+    <!-- Track accent line -->
+    <line x1="0" y1="205" x2="32" y2="205" stroke="#38bdf8" stroke-width="1" opacity="0.5"/>
+
+    <rect x="268" y="170" width="32" height="70" rx="10" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <g fill="#0f172a">
+      <rect x="271" y="177" width="26" height="9" rx="3"/>
+      <rect x="271" y="189" width="26" height="9" rx="3"/>
+      <rect x="271" y="201" width="26" height="9" rx="3"/>
+      <rect x="271" y="213" width="26" height="9" rx="3"/>
+      <rect x="271" y="225" width="26" height="9" rx="3"/>
+    </g>
+    <line x1="268" y1="205" x2="300" y2="205" stroke="#38bdf8" stroke-width="1" opacity="0.5"/>
+
+    <!-- Bottom suction brush (wider, premium) -->
+    <rect x="25" y="228" width="250" height="18" rx="5" fill="#1e293b" stroke="#38bdf8" stroke-width="1" opacity="0.9"/>
+    <!-- Brush bristles indicator -->
+    <g stroke="#38bdf8" stroke-width="1" opacity="0.5">
+      <line x1="40"  y1="231" x2="40"  y2="243"/>
+      <line x1="60"  y1="231" x2="60"  y2="243"/>
+      <line x1="80"  y1="231" x2="80"  y2="243"/>
+      <line x1="100" y1="231" x2="100" y2="243"/>
+      <line x1="120" y1="231" x2="120" y2="243"/>
+      <line x1="140" y1="231" x2="140" y2="243"/>
+      <line x1="160" y1="231" x2="160" y2="243"/>
+      <line x1="180" y1="231" x2="180" y2="243"/>
+      <line x1="200" y1="231" x2="200" y2="243"/>
+      <line x1="220" y1="231" x2="220" y2="243"/>
+      <line x1="240" y1="231" x2="240" y2="243"/>
+      <line x1="260" y1="231" x2="260" y2="243"/>
+    </g>
+  </g>
+
+  <!-- === SMARTPHONE WITH APP === -->
+  <g transform="translate(340, 80)">
+    <!-- Phone frame -->
+    <rect x="0" y="0" width="120" height="230" rx="18" fill="url(#phoneGrad)" stroke="#334155" stroke-width="2.5"/>
+    <!-- Screen -->
+    <rect x="8" y="18" width="104" height="194" rx="10" fill="url(#screenGrad)"/>
+    <!-- Camera notch -->
+    <rect x="45" y="10" width="30" height="8" rx="4" fill="#1e293b"/>
+    <!-- App header -->
+    <rect x="8" y="18" width="104" height="30" rx="10" fill="#075985"/>
+    <rect x="8" y="38" width="104" height="10" fill="#075985"/>
+    <text x="60" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#bae6fd" text-anchor="middle" font-weight="700">GosvorPool App</text>
+    <!-- Pool map on screen -->
+    <rect x="12" y="52" width="96" height="70" rx="5" fill="#0c4a6e"/>
+    <!-- Pool outline on map -->
+    <rect x="22" y="58" width="76" height="56" rx="4" fill="none" stroke="#38bdf8" stroke-width="1.5"/>
+    <rect x="22" y="58" width="76" height="56" rx="4" fill="#0ea5e9" opacity="0.12"/>
+    <!-- Robot dot on map -->
+    <circle cx="55" cy="82" r="6" fill="#4ade80" filter="url(#glowBlue)"/>
+    <!-- Path trail -->
+    <path d="M 30 100 L 30 70 L 80 70 L 80 105" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.7"/>
+    <!-- Map label -->
+    <text x="60" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#7dd3fc" text-anchor="middle">Zona limpiada: 78%</text>
+
+    <!-- Stats row -->
+    <rect x="12" y="130" width="44" height="36" rx="5" fill="#1e3a5f"/>
+    <text x="34" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#4ade80" text-anchor="middle">✓</text>
+    <text x="34" y="158" font-family="Segoe UI, Arial, sans-serif" font-size="7" fill="#7dd3fc" text-anchor="middle">Activo</text>
+    <rect x="62" y="130" width="44" height="36" rx="5" fill="#1e3a5f"/>
+    <text x="84" y="143" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#fbbf24" text-anchor="middle">185</text>
+    <text x="84" y="158" font-family="Segoe UI, Arial, sans-serif" font-size="7" fill="#7dd3fc" text-anchor="middle">min bat.</text>
+
+    <!-- Schedule section -->
+    <rect x="12" y="174" width="96" height="20" rx="4" fill="#1e3a5f"/>
+    <text x="60" y="188" font-family="Segoe UI, Arial, sans-serif" font-size="8" fill="#bae6fd" text-anchor="middle">Programado: diario 08:00</text>
+
+    <!-- Home indicator line -->
+    <rect x="45" y="218" width="30" height="4" rx="2" fill="#334155"/>
+  </g>
+
+  <!-- Connection line robot to phone -->
+  <path d="M 345 230 Q 380 210, 380 200" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="5,3" opacity="0.5"/>
+
+  <!-- "PRO" badge -->
+  <rect x="30" y="30" width="60" height="28" rx="14" fill="#7c3aed"/>
+  <text x="60" y="49" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">PRO</text>
+
+  <!-- Spec badges bottom -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">
+    <rect x="30" y="370" width="100" height="26" rx="13" fill="#0284c7" opacity="0.9"/>
+    <text x="80" y="387" fill="#ffffff" text-anchor="middle">Hasta 200 m²</text>
+    <rect x="145" y="370" width="100" height="26" rx="13" fill="#0f766e" opacity="0.9"/>
+    <text x="195" y="387" fill="#ffffff" text-anchor="middle">Paredes + App</text>
+    <rect x="260" y="370" width="100" height="26" rx="13" fill="#7c3aed" opacity="0.9"/>
+    <text x="310" y="387" fill="#ffffff" text-anchor="middle">200 min bat.</text>
+  </g>
+</svg>

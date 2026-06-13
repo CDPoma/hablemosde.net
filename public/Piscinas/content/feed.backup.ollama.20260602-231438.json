@@ -1,0 +1,285 @@
+{
+  "updatedAt": "2026-06-02T23:20:00+02:00",
+  "categoryOrder": [
+    "Mantenimiento",
+    "Problemas",
+    "Filtracion",
+    "Seguridad",
+    "Temporada"
+  ],
+  "posts": [
+    {
+      "slug": "como-bajar-el-ph-de-la-piscina-sin-danar-el-agua",
+      "title": "Como bajar el pH de la piscina sin dañar el agua",
+      "excerpt": "Pasos claros para reducir pH sin pasarte y mantener la desinfeccion estable.",
+      "category": "Mantenimiento",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Mide pH, cloro y alcalinidad antes de corregir. Añade reductor de pH en dosis pequeñas con la bomba en marcha y vuelve a medir a las pocas horas. Evita ajustes agresivos: los saltos bruscos generan rebotes y mas gasto en producto."
+    },
+    {
+      "slug": "alcalinidad-total-ta-que-es-y-por-que-te-descontrola-el-ph",
+      "title": "Alcalinidad total (TA): por que te descontrola el pH",
+      "excerpt": "Cuando la TA esta fuera de rango, el pH se vuelve inestable y cuesta mantener el agua equilibrada.",
+      "category": "Mantenimiento",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Una TA baja provoca cambios bruscos de pH y una TA alta hace que el pH tienda a subir. Corrige TA de forma progresiva y despues ajusta pH y desinfectante. Llevar un registro semanal te evita correcciones de urgencia."
+    },
+    {
+      "slug": "errores-comunes-al-usar-cloro-en-tabletas",
+      "title": "Errores comunes al usar cloro en tabletas",
+      "excerpt": "Sobredosificar o colocar mal las tabletas puede dañar equipo y empeorar la calidad del agua.",
+      "category": "Mantenimiento",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "No pongas tabletas en el skimmer con bomba parada y no des por hecho que el cloro siempre esta bien por tener pastillas. Revisa pH, cloro libre y estabilizante con frecuencia para evitar agua opaca o irritante."
+    },
+    {
+      "slug": "rutina-semanal-de-20-minutos-para-piscina-domestica",
+      "title": "Rutina semanal de 20 minutos para piscina domestica",
+      "excerpt": "Un plan corto y repetible para mantener agua clara sin depender de correcciones extremas.",
+      "category": "Mantenimiento",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Reserva dos dias fijos para medir y ajustar. Cepilla linea de flotacion, vacia cestas y revisa presion de filtro. Con rutina corta constante, casi siempre se evita el tratamiento de choque."
+    },
+    {
+      "slug": "como-leer-un-kit-de-analisis-sin-equivocarte",
+      "title": "Como leer un kit de analisis sin equivocarte",
+      "excerpt": "Medir bien es la mitad del mantenimiento: luz, hora y toma de muestra importan.",
+      "category": "Mantenimiento",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Toma muestra lejos de boquillas, evita medir bajo sol directo intenso y respeta tiempos del reactivo. Repetir una segunda lectura cuando el resultado es raro evita decisiones de dosificacion equivocadas."
+    },
+    {
+      "slug": "mantenimiento-de-skimmers-y-cestas-en-temporada-alta",
+      "title": "Mantenimiento de skimmers y cestas en temporada alta",
+      "excerpt": "Una cesta colapsada puede reducir caudal y hacerte pensar que el problema es quimico.",
+      "category": "Mantenimiento",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Limpia cestas 2-3 veces por semana en epoca de hojas y polvo. Revisa tambien juntas y tapas para evitar entrada de aire en circuito. Muchas perdidas de rendimiento nacen ahi, no en la quimica."
+    },
+    {
+      "slug": "agua-verde-en-la-piscina-causas-y-solucion-en-48-horas",
+      "title": "Agua verde en la piscina: plan de recuperacion en 48 horas",
+      "excerpt": "Estrategia en orden: cepillado, ajuste de pH, desinfeccion y filtracion continua.",
+      "category": "Problemas",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "No improvises mezclando productos. Primero libera biofilm con cepillado, luego corrige pH, aplica tratamiento segun etiqueta y filtra de forma continua. Limpia filtro cuando suba presion para retirar carga organica."
+    },
+    {
+      "slug": "clarificador-y-floculante-cuando-usarlos-y-cuando-no",
+      "title": "Clarificador y floculante: cuando usarlos y cuando no",
+      "excerpt": "Parecen lo mismo, pero su uso incorrecto puede atascar el sistema o dejar agua peor.",
+      "category": "Problemas",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Utiliza clarificador en turbidez fina con quimica estable. El floculante exige procedimiento y retirada de sedimento; no es para cualquier filtro ni para aplicar sin control."
+    },
+    {
+      "slug": "agua-turbia-despues-de-un-bano-intenso-que-ajustar-primero",
+      "title": "Agua turbia despues de un baño intenso: que ajustar primero",
+      "excerpt": "Cuando sube la carga de bañistas, prioriza orden de ajustes y no solo dosis alta de cloro.",
+      "category": "Problemas",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Revisa pH antes de subir desinfectante. Aumenta horas de filtracion en el mismo dia y limpia prefiltros. Si la turbidez persiste, revisa presion y capacidad real del filtro."
+    },
+    {
+      "slug": "manchas-en-linea-de-flotacion-causas-y-limpieza-sin-danar-revestimiento",
+      "title": "Manchas en linea de flotacion: limpieza sin dañar el revestimiento",
+      "excerpt": "La combinacion de grasas solares y suciedad requiere metodo, no solo cepillo fuerte.",
+      "category": "Problemas",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Limpia con producto adecuado al revestimiento y evita abrasivos agresivos. Mantener pH correcto y filtracion estable reduce la formacion de nueva linea sucia."
+    },
+    {
+      "slug": "perdida-de-agua-como-distinguir-evaporacion-de-fuga-real",
+      "title": "Perdida de agua: como distinguir evaporacion de fuga real",
+      "excerpt": "Una prueba simple de cubo evita desmontar media instalacion sin necesidad.",
+      "category": "Problemas",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Compara bajada del vaso con un cubo test durante 24 horas. Si la piscina pierde claramente mas, revisa juntas, skimmer y retorno. Detectar pronto ahorra agua y costes de reequilibrado."
+    },
+    {
+      "slug": "cuantas-horas-debe-filtrar-una-piscina-en-verano",
+      "title": "Cuantas horas debe filtrar una piscina en verano",
+      "excerpt": "Ajusta horas por temperatura y uso, no por costumbre fija de todo el año.",
+      "category": "Filtracion",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Como referencia, sube horas con calor y alta carga de uso. Divide la filtracion en varios tramos para mejorar circulacion y estabilidad quimica."
+    },
+    {
+      "slug": "lavado-del-filtro-de-arena-cuando-hacerlo-y-como-no-perder-eficiencia",
+      "title": "Lavado del filtro de arena: cuando hacerlo y como no perder eficiencia",
+      "excerpt": "No se lava por calendario, se lava por presion y sintomas de caudal.",
+      "category": "Filtracion",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Toma como referencia la presion limpia y actua cuando suba de forma consistente. Lavar demasiado pronto desperdicia agua y puede empeorar retencion de finos."
+    },
+    {
+      "slug": "filtro-de-cartucho-vs-arena-para-piscina-familiar",
+      "title": "Filtro de cartucho vs arena en piscina familiar",
+      "excerpt": "Comparativa real de mantenimiento, coste y facilidad de uso en casa.",
+      "category": "Filtracion",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Cartucho suele ofrecer filtrado fino y mantenimiento de limpieza manual. Arena es robusta y conocida, con retrolavados periodicos. La mejor opcion depende de tiempo disponible y coste de agua."
+    },
+    {
+      "slug": "bombas-de-velocidad-variable-ahorro-real-y-configuracion-base",
+      "title": "Bombas de velocidad variable: ahorro real y configuracion base",
+      "excerpt": "El ahorro llega al trabajar mas horas a baja velocidad y reservar alta para limpieza puntual.",
+      "category": "Filtracion",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Programa un bloque largo a velocidad moderada y un bloque corto de refuerzo. Revisa calidad de agua durante una semana y afina poco a poco para no perder rendimiento."
+    },
+    {
+      "slug": "seguridad-en-piscina-medidas-practicas-para-ninos-y-mascotas",
+      "title": "Seguridad en piscina: medidas practicas para niños y mascotas",
+      "excerpt": "La seguridad efectiva funciona por capas: barrera, supervision y rutina.",
+      "category": "Seguridad",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Instala barrera fisica, define adulto responsable en cada baño y evita juguetes flotando al terminar. La constancia en estas reglas reduce riesgos reales."
+    },
+    {
+      "slug": "como-elegir-cubierta-segura-para-piscina-residencial",
+      "title": "Como elegir cubierta segura para piscina residencial",
+      "excerpt": "No todas las cubiertas aportan la misma seguridad ni el mismo ahorro.",
+      "category": "Seguridad",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Compara resistencia, sistema de anclaje y facilidad de uso diario. Una cubierta que cuesta mucho poner termina usandose menos y pierde su funcion de proteccion."
+    },
+    {
+      "slug": "protocolo-basico-ante-incidentes-en-zona-de-piscina",
+      "title": "Protocolo basico ante incidentes en zona de piscina",
+      "excerpt": "Tener pasos claros y telefono visible acelera respuesta y reduce errores.",
+      "category": "Seguridad",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Define normas simples para adultos y peques, deja telefono accesible y mantén material de apoyo visible. La preparacion previa marca la diferencia en minutos criticos."
+    },
+    {
+      "slug": "invernaje-de-la-piscina-checklist-de-cierre-sin-sorpresas",
+      "title": "Invernaje de la piscina: checklist de cierre sin sorpresas",
+      "excerpt": "Cerrar bien la temporada evita apertura complicada y reparaciones caras.",
+      "category": "Temporada",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Limpia a fondo, ajusta parametros, protege puntos sensibles y coloca cubierta correctamente. Un invernaje ordenado ahorra tiempo y dinero en primavera."
+    },
+    {
+      "slug": "puesta-a-punto-de-primavera-pasos-para-reabrir-la-piscina",
+      "title": "Puesta a punto de primavera: pasos para reabrir la piscina",
+      "excerpt": "Plan de reapertura para recuperar agua clara sin semanas de ajustes.",
+      "category": "Temporada",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Retira cubierta, limpia vaso y circuito, revisa equipo y corrige agua en orden: pH, desinfeccion y filtracion. Evita tratamientos simultaneos sin medicion intermedia."
+    },
+    {
+      "slug": "mantenimiento-en-ola-de-calor-ajustes-clave-para-julio-y-agosto",
+      "title": "Mantenimiento en ola de calor: ajustes clave para julio y agosto",
+      "excerpt": "Con altas temperaturas sube la demanda de cloro y horas de depuracion.",
+      "category": "Temporada",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Refuerza control de parametros, aumenta filtracion y prioriza sombra/cubierta cuando no se use. Actuar preventivo en calor extremo evita agua verde."
+    },
+    {
+      "slug": "tormentas-de-verano-plan-rapido-para-recuperar-la-calidad-del-agua",
+      "title": "Tormentas de verano: plan rapido para recuperar la calidad del agua",
+      "excerpt": "Despues de lluvia y polvo, el orden de acciones importa mas que la cantidad de producto.",
+      "category": "Temporada",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "Retira residuos, corrige pH, revisa desinfectante y limpia filtro. Si la turbidez persiste, da tiempo al sistema antes de sobredosificar."
+    },
+    {
+      "slug": "limpiafondos-automatico-o-manual-cual-conviene-mas",
+      "title": "Limpiafondos automatico o manual: cual conviene mas",
+      "excerpt": "Elegir bien depende de frecuencia de uso, tamaño del vaso y tiempo disponible.",
+      "category": "Mantenimiento",
+      "date": "2 junio 2026",
+      "author": "Redaccion",
+      "content": "El automatico reduce trabajo repetitivo y da regularidad; el manual da control y menor coste inicial. La mejor opcion suele ser la que realmente usaras cada semana."
+    }
+  ],
+  "news": [
+    {
+      "slug": "mas-usuarios-adoptan-rutinas-cortas-de-control-del-agua",
+      "title": "Mas usuarios adoptan rutinas cortas de control del agua",
+      "summary": "Mediciones frecuentes y ajustes pequeños se consolidan como practica dominante en piscinas domesticas.",
+      "tag": "Mantenimiento",
+      "date": "2 junio 2026",
+      "content": "La tendencia editorial apunta a controles de 10-15 minutos varios dias por semana frente a revisiones grandes puntuales."
+    },
+    {
+      "slug": "crece-el-interes-por-bombas-eficientes-para-reducir-consumo",
+      "title": "Crece el interes por bombas eficientes para reducir consumo",
+      "summary": "La eficiencia energetica gana peso en decisiones de renovacion de equipos de depuracion.",
+      "tag": "Filtracion",
+      "date": "2 junio 2026",
+      "content": "Los propietarios comparan cada vez mas programas de velocidad variable y consumo mensual real antes de comprar."
+    },
+    {
+      "slug": "aumenta-la-demanda-de-cubiertas-de-seguridad-en-zonas-residenciales",
+      "title": "Aumenta la demanda de cubiertas de seguridad en zonas residenciales",
+      "summary": "Las cubiertas se valoran tanto por proteccion como por ahorro de evaporacion.",
+      "tag": "Seguridad",
+      "date": "2 junio 2026",
+      "content": "El usuario final busca soluciones que combinen barrera fisica y practicidad diaria para no abandonar su uso."
+    },
+    {
+      "slug": "olas-de-calor-adelantan-la-puesta-a-punto-en-muchas-piscinas",
+      "title": "Olas de calor adelantan la puesta a punto en muchas piscinas",
+      "summary": "La temporada alta se extiende y obliga a preparar equipos y quimica con anticipacion.",
+      "tag": "Temporada",
+      "date": "2 junio 2026",
+      "content": "Muchos usuarios inician control de parametros semanas antes para evitar arranques con agua descompensada."
+    },
+    {
+      "slug": "mas-consultas-sobre-agua-turbia-tras-fines-de-semana-de-uso-intenso",
+      "title": "Mas consultas sobre agua turbia tras fines de semana de uso intenso",
+      "summary": "El binomio baño alto y filtracion corta sigue siendo causa habitual de perdida de claridad.",
+      "tag": "Problemas",
+      "date": "2 junio 2026",
+      "content": "El patron se repite: pH fuera de rango + horas insuficientes de depuracion."
+    },
+    {
+      "slug": "kits-digitales-ganan-presencia-frente-a-tiras-basicas",
+      "title": "Kits digitales ganan presencia frente a tiras basicas",
+      "summary": "La facilidad de lectura impulsa la adopcion de soluciones de analisis mas consistentes.",
+      "tag": "Mantenimiento",
+      "date": "2 junio 2026",
+      "content": "Reducir errores de medicion mejora decisiones de dosis y acorta tiempo de correccion."
+    },
+    {
+      "slug": "revisiones-preventivas-de-juntas-y-tapas-suben-antes-del-verano",
+      "title": "Revisiones preventivas de juntas y tapas suben antes del verano",
+      "summary": "El mantenimiento mecanico previo evita caidas de caudal y entradas de aire en temporada.",
+      "tag": "Filtracion",
+      "date": "2 junio 2026",
+      "content": "Un chequeo de prefiltro y sellos suele prevenir gran parte de incidencias recurrentes de arranque."
+    },
+    {
+      "slug": "propietarios-priorizan-checklists-simples-para-no-olvidar-pasos-clave",
+      "title": "Propietarios priorizan checklists simples para no olvidar pasos clave",
+      "summary": "Las guias cortas por temporada mejoran consistencia del mantenimiento casero.",
+      "tag": "Temporada",
+      "date": "2 junio 2026",
+      "content": "Los formatos de checklist semanal y mensual se consolidan como contenido de alto valor practico."
+    }
+  ]
+}

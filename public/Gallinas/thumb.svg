@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fef9c3"/>
+      <stop offset="100%" stop-color="#fef3c7"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a3e635"/>
+      <stop offset="100%" stop-color="#65a30d"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="800" height="450" fill="url(#sky)"/>
+  <rect x="0" y="300" width="800" height="150" fill="url(#ground)"/>
+
+  <!-- Sol -->
+  <circle cx="700" cy="80" r="50" fill="#fde047" opacity="0.9"/>
+  <g stroke="#fde047" stroke-width="3" opacity="0.5">
+    <line x1="700" y1="15" x2="700" y2="2"/>
+    <line x1="700" y1="145" x2="700" y2="158"/>
+    <line x1="635" y1="80" x2="622" y2="80"/>
+    <line x1="762" y1="80" x2="775" y2="80"/>
+    <line x1="654" y1="34" x2="645" y2="25"/>
+    <line x1="746" y1="126" x2="755" y2="135"/>
+    <line x1="746" y1="34" x2="755" y2="25"/>
+    <line x1="654" y1="126" x2="645" y2="135"/>
+  </g>
+
+  <!-- Gallinero / valla -->
+  <rect x="80" y="210" width="200" height="100" rx="4" fill="#d97706" opacity="0.8"/>
+  <rect x="80" y="205" width="200" height="18" rx="3" fill="#b45309"/>
+  <!-- Tejado -->
+  <polygon points="70,210 290,210 280,170 80,170" fill="#92400e"/>
+  <polygon points="70,210 80,170 60,175" fill="#78350f"/>
+  <!-- Ventana gallinero -->
+  <rect x="150" y="225" width="60" height="50" rx="3" fill="#fef9c3"/>
+  <line x1="180" y1="225" x2="180" y2="275" stroke="#b45309" stroke-width="3"/>
+  <line x1="150" y1="250" x2="210" y2="250" stroke="#b45309" stroke-width="3"/>
+  <!-- Puerta gallinero -->
+  <rect x="120" y="260" width="35" height="50" rx="2" fill="#92400e"/>
+
+  <!-- Valla -->
+  <g fill="#d97706" stroke="#b45309" stroke-width="1">
+    <rect x="300" y="270" width="10" height="50" rx="2"/>
+    <rect x="320" y="270" width="10" height="50" rx="2"/>
+    <rect x="340" y="270" width="10" height="50" rx="2"/>
+    <rect x="360" y="270" width="10" height="50" rx="2"/>
+    <rect x="380" y="270" width="10" height="50" rx="2"/>
+    <rect x="400" y="270" width="10" height="50" rx="2"/>
+    <rect x="420" y="270" width="10" height="50" rx="2"/>
+    <rect x="440" y="270" width="10" height="50" rx="2"/>
+    <rect x="460" y="270" width="10" height="50" rx="2"/>
+    <rect x="480" y="270" width="10" height="50" rx="2"/>
+    <rect x="300" y="278" width="195" height="8" rx="2"/>
+    <rect x="300" y="300" width="195" height="8" rx="2"/>
+  </g>
+
+  <!-- Gallina 1 (grande, centro) -->
+  <g transform="translate(510, 245)">
+    <!-- cuerpo -->
+    <ellipse cx="0" cy="30" rx="45" ry="38" fill="#f5f5f4"/>
+    <!-- cabeza -->
+    <circle cx="38" cy="0" r="22" fill="#f5f5f4"/>
+    <!-- cresta -->
+    <ellipse cx="38" cy="-18" rx="7" ry="10" fill="#ef4444"/>
+    <ellipse cx="30" cy="-15" rx="6" ry="9" fill="#ef4444"/>
+    <ellipse cx="46" cy="-16" rx="6" ry="9" fill="#ef4444"/>
+    <!-- ojo -->
+    <circle cx="46" cy="-2" r="5" fill="#1c1917"/>
+    <circle cx="48" cy="-4" r="2" fill="white"/>
+    <!-- pico -->
+    <polygon points="56,-4 68,0 56,4" fill="#fbbf24"/>
+    <!-- barbilla -->
+    <ellipse cx="52" cy="8" rx="7" ry="5" fill="#ef4444"/>
+    <!-- ala -->
+    <ellipse cx="-5" cy="25" rx="30" ry="18" fill="#e7e5e4" transform="rotate(-10)"/>
+    <!-- cola -->
+    <ellipse cx="-42" cy="15" rx="18" ry="12" fill="#d6d3d1" transform="rotate(-30 -42 15)"/>
+    <ellipse cx="-45" cy="8" rx="14" ry="9" fill="#e7e5e4" transform="rotate(-45 -45 8)"/>
+    <!-- patas -->
+    <line x1="-5" y1="65" x2="-10" y2="88" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+    <line x1="15" y1="65" x2="20" y2="88" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+    <line x1="-10" y1="88" x2="-22" y2="94" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+    <line x1="-10" y1="88" x2="-5" y2="96" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+    <line x1="20" y1="88" x2="8" y2="94" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+    <line x1="20" y1="88" x2="25" y2="96" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Gallina 2 (pequeña, derecha) -->
+  <g transform="translate(640, 265)">
+    <ellipse cx="0" cy="22" rx="32" ry="27" fill="#fef3c7"/>
+    <circle cx="26" cy="2" r="16" fill="#fef3c7"/>
+    <ellipse cx="26" cy="-12" rx="5" ry="7" fill="#ef4444"/>
+    <ellipse cx="20" cy="-10" rx="4" ry="6" fill="#ef4444"/>
+    <circle cx="32" cy="0" r="4" fill="#1c1917"/>
+    <circle cx="33" cy="-2" r="1.5" fill="white"/>
+    <polygon points="40,-2 50,1 40,4" fill="#fbbf24"/>
+    <ellipse cx="-28" cy="10" rx="13" ry="8" fill="#fde68a" transform="rotate(-30 -28 10)"/>
+    <line x1="-4" y1="47" x2="-8" y2="64" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+    <line x1="10" y1="47" x2="14" y2="64" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Huevo -->
+  <ellipse cx="590" cy="302" rx="14" ry="17" fill="#fef9c3" stroke="#fde68a" stroke-width="2"/>
+
+  <!-- Césped detalle -->
+  <g fill="#84cc16">
+    <ellipse cx="50" cy="300" rx="7" ry="12"/>
+    <ellipse cx="64" cy="298" rx="6" ry="10"/>
+    <ellipse cx="750" cy="300" rx="7" ry="13"/>
+    <ellipse cx="765" cy="298" rx="5" ry="10"/>
+  </g>
+
+  <!-- Nubes -->
+  <g fill="white" opacity="0.8">
+    <ellipse cx="150" cy="60" rx="45" ry="22"/>
+    <ellipse cx="185" cy="55" rx="35" ry="20"/>
+    <ellipse cx="120" cy="65" rx="30" ry="18"/>
+    <ellipse cx="450" cy="45" rx="40" ry="18"/>
+    <ellipse cx="480" cy="42" rx="30" ry="16"/>
+  </g>
+
+  <!-- Texto -->
+  <text x="400" y="155" font-family="Georgia, serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#92400e" opacity="0.9">Hablemos de</text>
+  <text x="400" y="205" font-family="Georgia, serif" font-size="52" font-weight="bold" text-anchor="middle" fill="#b45309">Gallinas</text>
+</svg>
