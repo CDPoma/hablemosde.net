@@ -321,7 +321,7 @@ for (const s of sites) {
   copyDir(path.join(ROOT, s.slug), path.join(DIST, s.slug));
 }
 
-for (const f of ['ads.txt', 'robots.txt', 'sitemap.xml', 'sitemap-index.xml']) {
+for (const f of ['ads.txt', 'robots.txt', 'sitemap.xml', 'sitemap-index.xml', '_redirects']) {
   const src = path.join(ROOT, f);
   if (fs.existsSync(src)) fs.copyFileSync(src, path.join(DIST, f));
 }
