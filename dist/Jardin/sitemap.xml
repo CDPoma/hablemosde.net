@@ -15,67 +15,119 @@
     <priority>0.7</priority>
   </url>
 
-
   <!-- Artículos estáticos -->
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/como-mantener-cesped-verde-sano-todo-el-ano.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/mejor-cortacesped-robotico-2026.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/control-ph-suelo-guia-completa.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/eliminar-malas-hierbas-jardin-metodos.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/preparar-jardin-para-primavera-guia.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/sistema-riego-automatico-jardin-guia.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/poda-rosales-guia-completa.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/plantas-sombra-jardin-guia.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/abonado-organico-vs-mineral-jardines.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hablemosde.net/Jardin/articulos/plagas-jardines-mas-comunes-control.html</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-
+  <url>
+    <loc>https://hablemosde.net/Jardin/articulos/plantas-jardin-mediterraneo-espana.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Jardin/articulos/riego-jardin-mediterraneo-ahorro-agua.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Jardin/articulos/mantenimiento-jardin-mediterraneo-calendario.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Jardin/articulos/setos-jardin-formal-especies-poda.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Jardin/articulos/cesped-impecable-jardin-ingles-guia.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Jardin/articulos/borduras-floridas-jardin-formal-plantas.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Jardin/articulos/plantas-autoctonas-jardin-silvestre-espana.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Jardin/articulos/pradera-flores-silvestres-como-crear.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hablemosde.net/Jardin/articulos/jardin-naturalista-fauna-refugios-biodiversidad.html</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
