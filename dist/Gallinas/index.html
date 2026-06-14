@@ -192,51 +192,133 @@
           <p>No todas las gallinas son iguales ni sirven para lo mismo. La raza equivocada es el error más frecuente y más caro del primer gallinero.</p>
         </div>
 
-        <!-- Tarjetas de tipos -->
-        <div class="tipo-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin-top:40px">
-
-          <!-- Super ponedoras -->
-          <div class="tipo-card" style="background:var(--surface,#fff);border:1px solid var(--line,#e5e7eb);border-radius:12px;padding:28px;display:flex;flex-direction:column;gap:12px">
-            <div style="width:52px;height:52px;border-radius:50%;background:#fef9c3;display:flex;align-items:center;justify-content:center;font-size:1.6rem">🥇</div>
-            <span class="eyebrow" style="color:#ca8a04">Super ponedoras</span>
-            <h3 style="margin:0;font-size:1.2rem">Más de 300 huevos al año</h3>
-            <p style="margin:0;font-size:0.95rem;color:var(--text-muted,#6b7280)">Razas seleccionadas industrialmente para máxima producción. Ligeras, activas y algo nerviosas. Perfectas si quieres huevos en cantidad y el espacio te lo permite.</p>
-            <ul style="margin:0;padding-left:1.2rem;font-size:0.9rem;color:var(--text-muted,#6b7280);display:flex;flex-direction:column;gap:4px">
-              <li><strong>Isa Brown</strong> — hasta 320 huevos/año, muy dócil</li>
-              <li><strong>Lohmann Brown</strong> — estándar en granjas europeas</li>
-              <li><strong>Leghorn blanca</strong> — ligera, huevo blanco grande</li>
-            </ul>
-            <p style="margin:0;font-size:0.85rem;background:#fef9c3;border-radius:6px;padding:8px 12px;color:#854d0e"><strong>Para quién:</strong> quien quiere producción máxima con 3-6 gallinas</p>
+        <!-- ── TIPO 1: SUPER PONEDORAS ─────────────────────────────── -->
+        <div style="margin-top:48px;padding:32px;background:var(--surface,#fff);border:1px solid var(--line,#e5e7eb);border-radius:16px">
+          <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:16px">
+            <div style="width:52px;height:52px;flex-shrink:0;border-radius:50%;background:#fef9c3;display:flex;align-items:center;justify-content:center;font-size:1.6rem">🥇</div>
+            <div>
+              <span class="eyebrow" style="color:#ca8a04">Super ponedoras</span>
+              <h3 style="margin:4px 0 0;font-size:1.3rem">Más de 300 huevos al año</h3>
+            </div>
           </div>
+          <p style="margin:0 0 8px;font-size:0.95rem;color:var(--text-muted,#6b7280)">Razas creadas por selección genética intensiva para una sola cosa: poner huevos. Son ligeras, muy activas y algo nerviosas. Convierten el pienso en huevos con una eficiencia que ninguna raza rústica iguala. Si tienes poco espacio y quieres producción real, estas son tu opción.</p>
+          <p style="margin:0 0 20px;font-size:0.85rem;background:#fef9c3;border-radius:6px;padding:8px 12px;color:#854d0e;display:inline-block"><strong>Para quién:</strong> quien quiere producción máxima con 3-6 gallinas en un espacio controlado</p>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px">
 
-          <!-- Ponedoras -->
-          <div class="tipo-card" style="background:var(--surface,#fff);border:1px solid var(--line,#e5e7eb);border-radius:12px;padding:28px;display:flex;flex-direction:column;gap:12px">
-            <div style="width:52px;height:52px;border-radius:50%;background:#dcfce7;display:flex;align-items:center;justify-content:center;font-size:1.6rem">🥚</div>
-            <span class="eyebrow" style="color:#16a34a">Ponedoras</span>
-            <h3 style="margin:0;font-size:1.2rem">200-260 huevos al año</h3>
-            <p style="margin:0;font-size:0.95rem;color:var(--text-muted,#6b7280)">Razas de doble aptitud con buena puesta. Más tranquilas, aguantan mejor el frío y se adaptan a espacios pequeños. La opción más equilibrada para el hogar.</p>
-            <ul style="margin:0;padding-left:1.2rem;font-size:0.9rem;color:var(--text-muted,#6b7280);display:flex;flex-direction:column;gap:4px">
-              <li><strong>Sussex</strong> — dócil, rústica, ideal para principiantes</li>
-              <li><strong>Rhode Island Red</strong> — robusta y muy popular en España</li>
-              <li><strong>Plymouth Rock</strong> — tranquila, huevo marrón, aguanta el frío</li>
-            </ul>
-            <p style="margin:0;font-size:0.85rem;background:#dcfce7;border-radius:6px;padding:8px 12px;color:#14532d"><strong>Para quién:</strong> familias que quieren huevos caseros sin complicaciones</p>
+            <div style="border:1px solid #fde68a;border-radius:10px;padding:18px;background:#fffbeb">
+              <strong style="font-size:1rem;color:#92400e">Isa Brown</strong>
+              <div style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px">
+                <span style="font-size:0.78rem;background:#fef3c7;border-radius:20px;padding:2px 8px;color:#78350f">320 huevos/año</span>
+                <span style="font-size:0.78rem;background:#fef3c7;border-radius:20px;padding:2px 8px;color:#78350f">Huevo marrón</span>
+              </div>
+              <p style="margin:0;font-size:0.88rem;color:#6b7280">Híbrido comercial de origen francés. Es la más popular en España por su carácter tranquilo y su producción constante. Muy dócil, se adapta bien al trato humano. Ideal si tienes niños.</p>
+            </div>
+
+            <div style="border:1px solid #fde68a;border-radius:10px;padding:18px;background:#fffbeb">
+              <strong style="font-size:1rem;color:#92400e">Lohmann Brown</strong>
+              <div style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px">
+                <span style="font-size:0.78rem;background:#fef3c7;border-radius:20px;padding:2px 8px;color:#78350f">300-310 huevos/año</span>
+                <span style="font-size:0.78rem;background:#fef3c7;border-radius:20px;padding:2px 8px;color:#78350f">Huevo marrón</span>
+              </div>
+              <p style="margin:0;font-size:0.88rem;color:#6b7280">Estándar en las granjas avícolas europeas. Muy eficiente con el pienso, resistente a enfermedades respiratorias y con bajo nivel de estrés. Buen rendimiento también en climas cálidos.</p>
+            </div>
+
+            <div style="border:1px solid #fde68a;border-radius:10px;padding:18px;background:#fffbeb">
+              <strong style="font-size:1rem;color:#92400e">Leghorn blanca</strong>
+              <div style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px">
+                <span style="font-size:0.78rem;background:#fef3c7;border-radius:20px;padding:2px 8px;color:#78350f">280-300 huevos/año</span>
+                <span style="font-size:0.78rem;background:#fef3c7;border-radius:20px;padding:2px 8px;color:#78350f">Huevo blanco grande</span>
+              </div>
+              <p style="margin:0;font-size:0.88rem;color:#6b7280">La ponedora de huevo blanco por excelencia. Raza ligera y muy activa — necesita espacio y no le gustan los espacios cerrados. Más resistente al calor que las marrones. Algo asustadiza al principio.</p>
+            </div>
+
           </div>
+        </div>
 
-          <!-- Gallinas de Guinea -->
-          <div class="tipo-card" style="background:var(--surface,#fff);border:1px solid var(--line,#e5e7eb);border-radius:12px;padding:28px;display:flex;flex-direction:column;gap:12px">
-            <div style="width:52px;height:52px;border-radius:50%;background:#f3e8ff;display:flex;align-items:center;justify-content:center;font-size:1.6rem">🐦</div>
-            <span class="eyebrow" style="color:#9333ea">Gallinas de Guinea (Pintadas)</span>
-            <h3 style="margin:0;font-size:1.2rem">Control de insectos y alarma natural</h3>
-            <p style="margin:0;font-size:0.95rem;color:var(--text-muted,#6b7280)">No son gallinas domésticas: son aves africanas muy rústicas, resistentes a enfermedades y excelentes para eliminar garrapatas e insectos del huerto. Muy vocales — no son para todos.</p>
-            <ul style="margin:0;padding-left:1.2rem;font-size:0.9rem;color:var(--text-muted,#6b7280);display:flex;flex-direction:column;gap:4px">
-              <li>Ponen unos <strong>100 huevos al año</strong> (temporada primavera-verano)</li>
-              <li>Huevo pequeño, cáscara dura, sabor intenso</li>
-              <li>Muy independientes — prefieren el campo libre</li>
-            </ul>
-            <p style="margin:0;font-size:0.85rem;background:#f3e8ff;border-radius:6px;padding:8px 12px;color:#581c87"><strong>Para quién:</strong> fincas con espacio y problemas de garrapatas o insectos</p>
+        <!-- ── TIPO 2: PONEDORAS ───────────────────────────────────── -->
+        <div style="margin-top:24px;padding:32px;background:var(--surface,#fff);border:1px solid var(--line,#e5e7eb);border-radius:16px">
+          <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:16px">
+            <div style="width:52px;height:52px;flex-shrink:0;border-radius:50%;background:#dcfce7;display:flex;align-items:center;justify-content:center;font-size:1.6rem">🥚</div>
+            <div>
+              <span class="eyebrow" style="color:#16a34a">Ponedoras</span>
+              <h3 style="margin:4px 0 0;font-size:1.3rem">200-260 huevos al año</h3>
+            </div>
           </div>
+          <p style="margin:0 0 8px;font-size:0.95rem;color:var(--text-muted,#6b7280)">Razas tradicionales de doble aptitud: buena puesta y también aprovechables para carne. Más tranquilas, más rústicas y más fáciles de manejar que las super ponedoras. Se adaptan bien al campo y al gallinero pequeño. La opción más equilibrada para quien empieza.</p>
+          <p style="margin:0 0 20px;font-size:0.85rem;background:#dcfce7;border-radius:6px;padding:8px 12px;color:#14532d;display:inline-block"><strong>Para quién:</strong> familias que quieren huevos caseros sin complicaciones y un manejo sencillo</p>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px">
 
+            <div style="border:1px solid #bbf7d0;border-radius:10px;padding:18px;background:#f0fdf4">
+              <strong style="font-size:1rem;color:#14532d">Sussex</strong>
+              <div style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px">
+                <span style="font-size:0.78rem;background:#dcfce7;border-radius:20px;padding:2px 8px;color:#14532d">240-260 huevos/año</span>
+                <span style="font-size:0.78rem;background:#dcfce7;border-radius:20px;padding:2px 8px;color:#14532d">Huevo crema o marrón</span>
+              </div>
+              <p style="margin:0;font-size:0.88rem;color:#6b7280">Raza inglesa centenaria, ideal para principiantes. Muy dócil y curiosa, acepta bien el confinamiento y el trato frecuente. Aguanta bien el frío y la lluvia. Es la raza que más recomendamos para el primer gallinero familiar.</p>
+            </div>
+
+            <div style="border:1px solid #bbf7d0;border-radius:10px;padding:18px;background:#f0fdf4">
+              <strong style="font-size:1rem;color:#14532d">Rhode Island Red</strong>
+              <div style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px">
+                <span style="font-size:0.78rem;background:#dcfce7;border-radius:20px;padding:2px 8px;color:#14532d">250-270 huevos/año</span>
+                <span style="font-size:0.78rem;background:#dcfce7;border-radius:20px;padding:2px 8px;color:#14532d">Huevo marrón oscuro</span>
+              </div>
+              <p style="margin:0;font-size:0.88rem;color:#6b7280">La más popular en España entre las razas rústicas. Robusta, resistente a casi todo y con una producción muy constante durante el primer año. Algo más dominante que la Sussex — hay que vigilar la jerarquía si mezclas razas.</p>
+            </div>
+
+            <div style="border:1px solid #bbf7d0;border-radius:10px;padding:18px;background:#f0fdf4">
+              <strong style="font-size:1rem;color:#14532d">Plymouth Rock</strong>
+              <div style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px">
+                <span style="font-size:0.78rem;background:#dcfce7;border-radius:20px;padding:2px 8px;color:#14532d">200-230 huevos/año</span>
+                <span style="font-size:0.78rem;background:#dcfce7;border-radius:20px;padding:2px 8px;color:#14532d">Huevo marrón</span>
+              </div>
+              <p style="margin:0;font-size:0.88rem;color:#6b7280">Americana de plumaje barrado en blanco y negro, muy reconocible. Tranquila y de maduración lenta. Excelente para climas fríos y húmedos. Pone menos que las anteriores pero aguanta más años en producción.</p>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- ── TIPO 3: GALLINAS DE GUINEA ─────────────────────────── -->
+        <div style="margin-top:24px;padding:32px;background:var(--surface,#fff);border:1px solid var(--line,#e5e7eb);border-radius:16px">
+          <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:16px">
+            <div style="width:52px;height:52px;flex-shrink:0;border-radius:50%;background:#f3e8ff;display:flex;align-items:center;justify-content:center;font-size:1.6rem">🐦</div>
+            <div>
+              <span class="eyebrow" style="color:#9333ea">Gallinas de Guinea (Pintadas)</span>
+              <h3 style="margin:4px 0 0;font-size:1.3rem">Control de insectos y alarma natural</h3>
+            </div>
+          </div>
+          <p style="margin:0 0 8px;font-size:0.95rem;color:var(--text-muted,#6b7280)">Técnicamente no son gallinas: son una especie distinta originaria del África subsahariana. Altamente resistentes a enfermedades, casi no necesitan cuidados y eliminan garrapatas, moscas y todo tipo de insectos del terreno. El inconveniente: son ruidosas y no se pueden confinar — necesitan libertad para moverse.</p>
+          <p style="margin:0 0 20px;font-size:0.85rem;background:#f3e8ff;border-radius:6px;padding:8px 12px;color:#581c87;display:inline-block"><strong>Para quién:</strong> fincas con espacio abierto y problemas de garrapatas, insectos o roedores</p>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px">
+
+            <div style="border:1px solid #e9d5ff;border-radius:10px;padding:18px;background:#faf5ff">
+              <strong style="font-size:1rem;color:#581c87">Pintada gris perlada</strong>
+              <div style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px">
+                <span style="font-size:0.78rem;background:#f3e8ff;border-radius:20px;padding:2px 8px;color:#581c87">100-120 huevos/año</span>
+                <span style="font-size:0.78rem;background:#f3e8ff;border-radius:20px;padding:2px 8px;color:#581c87">Huevo pequeño, cáscara dura</span>
+              </div>
+              <p style="margin:0;font-size:0.88rem;color:#6b7280">La variedad más común y más fácil de encontrar en España. Plumaje gris con motas blancas. La más prolífica de las pintadas. Su huevo tiene más proteína y menos colesterol que el de gallina, con un sabor más intenso.</p>
+            </div>
+
+            <div style="border:1px solid #e9d5ff;border-radius:10px;padding:18px;background:#faf5ff">
+              <strong style="font-size:1rem;color:#581c87">Pintada blanca</strong>
+              <div style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px">
+                <span style="font-size:0.78rem;background:#f3e8ff;border-radius:20px;padding:2px 8px;color:#581c87">80-100 huevos/año</span>
+                <span style="font-size:0.78rem;background:#f3e8ff;border-radius:20px;padding:2px 8px;color:#581c87">Huevo pequeño</span>
+              </div>
+              <p style="margin:0;font-size:0.88rem;color:#6b7280">Mutación albina de la gris. Algo menos prolífica pero más llamativa visualmente. Mismas características de rusticidad y control de insectos. Algo más difícil de encontrar en granjas españolas.</p>
+            </div>
+
+            <div style="border:1px solid #e9d5ff;border-radius:10px;padding:18px;background:#faf5ff">
+              <strong style="font-size:1rem;color:#581c87">Pintada lavanda</strong>
+              <div style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px">
+                <span style="font-size:0.78rem;background:#f3e8ff;border-radius:20px;padding:2px 8px;color:#581c87">80-100 huevos/año</span>
+                <span style="font-size:0.78rem;background:#f3e8ff;border-radius:20px;padding:2px 8px;color:#581c87">Huevo pequeño</span>
+              </div>
+              <p style="margin:0;font-size:0.88rem;color:#6b7280">Tonalidad azul-grisácea muy apreciada en avicultura decorativa. Mismas propiedades que el resto de pintadas. La opción si buscas algo visual y funcional al mismo tiempo. Escasa en España, suele pedirse a criadores especializados.</p>
+            </div>
+
+          </div>
         </div>
         <!-- Subsección: Productos -->
         <div id="productos" style="margin-top:60px;padding-top:48px;border-top:1px solid var(--line)">
