@@ -5,7 +5,8 @@ const fs   = require('fs');
 const path = require('path');
 
 const ROOT   = __dirname;
-const OUTPUT = path.join(ROOT, 'index.html');
+const DIST   = path.join(ROOT, 'dist');
+const OUTPUT = path.join(DIST, 'index.html');
 
 // Folders that are never niche sites
 const SKIP = new Set([
@@ -300,7 +301,30 @@ const html = `<!DOCTYPE html>
 </body>
 </html>`;
 
+if (!fs.existsSync(DIST)) fs.mkdirSync(DIST, { recursive: true });
 fs.writeFileSync(OUTPUT, html, 'utf8');
 
-console.log(`\n✅  index.html generado con ${sites.length} sitio(s)`);
+function copyDir(src, dest) {
+  if (!fs.existsSync(dest)) fs.mkdirSync(dest, { recursive: true });
+  for (const entry of fs.readdirSync(src)) {
+    const s = path.join(src, entry);
+    const d = path.join(dest, entry);
+    if (fs.statSync(s).isDirectory()) copyDir(s, d);
+    else fs.copyFileSync(s, d);
+  }
+}
+
+if (fs.existsSync(path.join(ROOT, 'assets')))
+  copyDir(path.join(ROOT, 'assets'), path.join(DIST, 'assets'));
+
+for (const s of sites) {
+  copyDir(path.join(ROOT, s.slug), path.join(DIST, s.slug));
+}
+
+for (const f of ['ads.txt', 'robots.txt', 'sitemap.xml', 'sitemap-index.xml', '_redirects']) {
+  const src = path.join(ROOT, f);
+  if (fs.existsSync(src)) fs.copyFileSync(src, path.join(DIST, f));
+}
+
+console.log(`\n✅  dist/ generado con ${sites.length} sitio(s)`);
 if (sites.length) console.log('   ' + sites.map(s => `${s.emoji} ${s.name}`).join('\n   '));
